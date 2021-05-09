@@ -1,0 +1,473 @@
+areaType,areaName,areaCode,date,cumVaccinationFirstDoseUptakeByPublishDatePercentage,cumVaccinationSecondDoseUptakeByPublishDatePercentage
+nation,England,E92000001,2021-05-07,66.5,32.7
+nation,England,E92000001,2021-05-06,66.3,31.7
+nation,England,E92000001,2021-05-05,66.0,30.8
+nation,England,E92000001,2021-05-04,65.8,30.0
+nation,England,E92000001,2021-05-03,65.6,29.5
+nation,England,E92000001,2021-05-02,65.4,29.3
+nation,England,E92000001,2021-05-01,65.3,29.0
+nation,England,E92000001,2021-04-30,65.0,28.3
+nation,England,E92000001,2021-04-29,64.7,27.4
+nation,England,E92000001,2021-04-28,64.5,26.5
+nation,England,E92000001,2021-04-27,64.3,25.7
+nation,England,E92000001,2021-04-26,64.1,24.9
+nation,England,E92000001,2021-04-25,63.9,24.4
+nation,England,E92000001,2021-04-24,63.8,23.9
+nation,England,E92000001,2021-04-23,63.5,22.8
+nation,England,E92000001,2021-04-22,63.2,21.9
+nation,England,E92000001,2021-04-21,63.0,21.1
+nation,England,E92000001,2021-04-20,62.8,20.3
+nation,England,E92000001,2021-04-19,62.6,19.7
+nation,England,E92000001,2021-04-18,62.4,19.2
+nation,England,E92000001,2021-04-17,62.3,18.8
+nation,England,E92000001,2021-04-16,62.0,17.8
+nation,England,E92000001,2021-04-15,61.8,16.8
+nation,England,E92000001,2021-04-14,61.6,15.9
+nation,England,E92000001,2021-04-13,61.4,15.3
+nation,England,E92000001,2021-04-12,61.3,14.7
+nation,England,E92000001,2021-04-11,61.2,14.3
+nation,England,E92000001,2021-04-10,61.2,14.0
+nation,England,E92000001,2021-04-09,61.0,13.0
+nation,England,E92000001,2021-04-08,60.9,12.1
+nation,England,E92000001,2021-04-07,60.7,11.1
+nation,England,E92000001,2021-04-06,60.6,10.3
+nation,England,E92000001,2021-04-05,60.5,9.9
+nation,England,E92000001,2021-04-04,60.4,9.8
+nation,England,E92000001,2021-04-03,60.4,9.7
+nation,England,E92000001,2021-04-02,60.2,9.4
+nation,England,E92000001,2021-04-01,60.0,8.9
+nation,England,E92000001,2021-03-31,59.8,8.0
+nation,England,E92000001,2021-03-30,59.3,7.2
+nation,England,E92000001,2021-03-29,58.9,6.7
+nation,England,E92000001,2021-03-28,58.5,6.3
+nation,England,E92000001,2021-03-27,58.0,6.1
+nation,England,E92000001,2021-03-26,57.1,5.6
+nation,England,E92000001,2021-03-25,56.3,5.0
+nation,England,E92000001,2021-03-24,55.8,4.6
+nation,England,E92000001,2021-03-23,55.1,4.1
+nation,England,E92000001,2021-03-22,54.5,3.8
+nation,England,E92000001,2021-03-21,53.9,3.7
+nation,England,E92000001,2021-03-20,53.2,3.6
+nation,England,E92000001,2021-03-19,51.7,3.4
+nation,England,E92000001,2021-03-18,50.5,3.2
+nation,England,E92000001,2021-03-17,49.4,3.0
+nation,England,E92000001,2021-03-16,48.6,2.8
+nation,England,E92000001,2021-03-15,47.7,2.6
+nation,England,E92000001,2021-03-14,47.0,2.6
+nation,England,E92000001,2021-03-13,46.5,2.5
+nation,England,E92000001,2021-03-12,45.4,2.4
+nation,England,E92000001,2021-03-11,44.7,2.3
+nation,England,E92000001,2021-03-10,44.3,2.1
+nation,England,E92000001,2021-03-09,43.8,2.0
+nation,England,E92000001,2021-03-08,43.4,1.9
+nation,England,E92000001,2021-03-07,43.0,1.8
+nation,England,E92000001,2021-03-06,42.6,1.8
+nation,England,E92000001,2021-03-05,41.8,1.7
+nation,England,E92000001,2021-03-04,40.9,1.6
+nation,England,E92000001,2021-03-03,40.2,1.5
+nation,England,E92000001,2021-03-02,39.7,1.4
+nation,England,E92000001,2021-03-01,39.3,1.4
+nation,England,E92000001,2021-02-28,38.9,1.4
+nation,England,E92000001,2021-02-27,38.5,1.3
+nation,England,E92000001,2021-02-26,37.7,1.3
+nation,England,E92000001,2021-02-25,36.7,1.3
+nation,England,E92000001,2021-02-24,35.7,1.2
+nation,England,E92000001,2021-02-23,34.8,1.2
+nation,England,E92000001,2021-02-22,34.1,1.2
+nation,England,E92000001,2021-02-21,33.8,1.2
+nation,England,E92000001,2021-02-20,33.5,1.2
+nation,England,E92000001,2021-02-19,32.8,1.1
+nation,England,E92000001,2021-02-18,32.1,1.1
+nation,England,E92000001,2021-02-17,31.2,1.1
+nation,England,E92000001,2021-02-16,30.3,1.1
+nation,England,E92000001,2021-02-15,29.6,1.1
+nation,England,E92000001,2021-02-14,29.1,1.1
+nation,England,E92000001,2021-02-13,28.6,1.1
+nation,England,E92000001,2021-02-12,27.7,1.1
+nation,England,E92000001,2021-02-11,26.7,1.1
+nation,England,E92000001,2021-02-10,25.8,1.1
+nation,England,E92000001,2021-02-09,25.0,1.1
+nation,England,E92000001,2021-02-08,24.3,1.1
+nation,England,E92000001,2021-02-07,23.8,1.1
+nation,England,E92000001,2021-02-06,23.2,1.1
+nation,England,E92000001,2021-02-05,22.2,1.1
+nation,England,E92000001,2021-02-04,21.3,1.1
+nation,England,E92000001,2021-02-03,20.4,1.1
+nation,England,E92000001,2021-02-02,19.6,1.0
+nation,England,E92000001,2021-02-01,18.9,1.0
+nation,England,E92000001,2021-01-31,18.3,1.0
+nation,England,E92000001,2021-01-30,17.6,1.0
+nation,England,E92000001,2021-01-29,16.4,1.0
+nation,England,E92000001,2021-01-28,15.4,1.0
+nation,England,E92000001,2021-01-27,14.6,1.0
+nation,England,E92000001,2021-01-26,14.1,1.0
+nation,England,E92000001,2021-01-25,13.5,1.0
+nation,England,E92000001,2021-01-24,12.9,1.0
+nation,England,E92000001,2021-01-23,12.5,1.0
+nation,England,E92000001,2021-01-22,11.5,1.0
+nation,England,E92000001,2021-01-21,10.5,1.0
+nation,England,E92000001,2021-01-20,9.7,1.0
+nation,England,E92000001,2021-01-19,9.0,1.0
+nation,England,E92000001,2021-01-18,8.3,1.0
+nation,England,E92000001,2021-01-17,8.0,1.0
+nation,England,E92000001,2021-01-16,7.6,1.0
+nation,England,E92000001,2021-01-15,7.0,1.0
+nation,England,E92000001,2021-01-14,6.3,1.0
+nation,England,E92000001,2021-01-13,5.6,0.9
+nation,England,E92000001,2021-01-12,5.1,0.9
+nation,England,E92000001,2021-01-11,4.7,0.9
+nation,England,E92000001,2021-01-10,4.4,0.8
+nation,Northern Ireland,N92000002,2021-05-07,66.6,33.2
+nation,Northern Ireland,N92000002,2021-05-06,66.3,32.6
+nation,Northern Ireland,N92000002,2021-05-05,65.9,31.6
+nation,Northern Ireland,N92000002,2021-05-04,65.4,30.7
+nation,Northern Ireland,N92000002,2021-05-03,65.0,30.1
+nation,Northern Ireland,N92000002,2021-05-02,64.9,29.7
+nation,Northern Ireland,N92000002,2021-05-01,64.5,29.4
+nation,Northern Ireland,N92000002,2021-04-30,64.2,29.1
+nation,Northern Ireland,N92000002,2021-04-29,63.8,28.7
+nation,Northern Ireland,N92000002,2021-04-28,64.4,26.0
+nation,Northern Ireland,N92000002,2021-04-27,63.8,25.3
+nation,Northern Ireland,N92000002,2021-04-26,63.3,24.5
+nation,Northern Ireland,N92000002,2021-04-25,62.8,23.9
+nation,Northern Ireland,N92000002,2021-04-24,62.3,23.6
+nation,Northern Ireland,N92000002,2021-04-23,61.9,23.3
+nation,Northern Ireland,N92000002,2021-04-22,61.4,22.6
+nation,Northern Ireland,N92000002,2021-04-21,60.8,21.5
+nation,Northern Ireland,N92000002,2021-04-20,60.3,20.5
+nation,Northern Ireland,N92000002,2021-04-19,59.8,19.5
+nation,Northern Ireland,N92000002,2021-04-18,59.4,18.8
+nation,Northern Ireland,N92000002,2021-04-17,59.2,18.5
+nation,Northern Ireland,N92000002,2021-04-16,58.9,18.1
+nation,Northern Ireland,N92000002,2021-04-15,58.5,17.2
+nation,Northern Ireland,N92000002,2021-04-14,58.1,16.3
+nation,Northern Ireland,N92000002,2021-04-13,57.7,15.4
+nation,Northern Ireland,N92000002,2021-04-12,57.3,14.5
+nation,Northern Ireland,N92000002,2021-04-11,56.9,13.7
+nation,Northern Ireland,N92000002,2021-04-10,56.4,13.4
+nation,Northern Ireland,N92000002,2021-04-09,56.0,13.1
+nation,Northern Ireland,N92000002,2021-04-08,55.5,12.5
+nation,Northern Ireland,N92000002,2021-04-07,55.0,12.0
+nation,Northern Ireland,N92000002,2021-04-06,54.4,11.6
+nation,Northern Ireland,N92000002,2021-04-05,54.1,11.4
+nation,Northern Ireland,N92000002,2021-04-04,53.7,11.3
+nation,Northern Ireland,N92000002,2021-04-03,53.5,11.2
+nation,Northern Ireland,N92000002,2021-04-02,53.1,11.0
+nation,Northern Ireland,N92000002,2021-04-01,52.7,10.6
+nation,Northern Ireland,N92000002,2021-03-31,52.0,10.0
+nation,Northern Ireland,N92000002,2021-03-30,51.6,9.5
+nation,Northern Ireland,N92000002,2021-03-29,51.0,9.1
+nation,Northern Ireland,N92000002,2021-03-28,50.3,8.6
+nation,Northern Ireland,N92000002,2021-03-27,50.0,8.5
+nation,Northern Ireland,N92000002,2021-03-26,49.5,8.3
+nation,Northern Ireland,N92000002,2021-03-25,49.0,7.8
+nation,Northern Ireland,N92000002,2021-03-24,48.4,7.2
+nation,Northern Ireland,N92000002,2021-03-23,47.8,6.6
+nation,Northern Ireland,N92000002,2021-03-22,47.3,6.1
+nation,Northern Ireland,N92000002,2021-03-21,47.3,6.1
+nation,Northern Ireland,N92000002,2021-03-20,46.0,5.4
+nation,Northern Ireland,N92000002,2021-03-19,45.6,5.2
+nation,Northern Ireland,N92000002,2021-03-18,45.1,4.9
+nation,Northern Ireland,N92000002,2021-03-17,44.5,4.6
+nation,Northern Ireland,N92000002,2021-03-16,44.1,4.4
+nation,Northern Ireland,N92000002,2021-03-15,43.6,4.0
+nation,Northern Ireland,N92000002,2021-03-14,43.3,3.8
+nation,Northern Ireland,N92000002,2021-03-13,43.0,3.6
+nation,Northern Ireland,N92000002,2021-03-12,42.8,3.4
+nation,Northern Ireland,N92000002,2021-03-11,42.3,3.4
+nation,Northern Ireland,N92000002,2021-03-10,41.8,3.4
+nation,Northern Ireland,N92000002,2021-03-09,41.4,3.2
+nation,Northern Ireland,N92000002,2021-03-08,41.1,3.1
+nation,Northern Ireland,N92000002,2021-03-07,40.5,2.9
+nation,Northern Ireland,N92000002,2021-03-06,40.1,2.9
+nation,Northern Ireland,N92000002,2021-03-05,39.7,2.9
+nation,Northern Ireland,N92000002,2021-03-04,39.1,2.9
+nation,Northern Ireland,N92000002,2021-03-03,38.3,2.8
+nation,Northern Ireland,N92000002,2021-03-02,37.5,2.6
+nation,Northern Ireland,N92000002,2021-03-01,37.0,2.4
+nation,Northern Ireland,N92000002,2021-02-28,36.2,2.3
+nation,Northern Ireland,N92000002,2021-02-27,35.9,2.2
+nation,Northern Ireland,N92000002,2021-02-26,35.5,2.2
+nation,Northern Ireland,N92000002,2021-02-25,34.8,2.2
+nation,Northern Ireland,N92000002,2021-02-24,33.8,2.2
+nation,Northern Ireland,N92000002,2021-02-23,32.9,2.2
+nation,Northern Ireland,N92000002,2021-02-22,32.2,2.1
+nation,Northern Ireland,N92000002,2021-02-21,31.5,2.1
+nation,Northern Ireland,N92000002,2021-02-20,30.7,2.1
+nation,Northern Ireland,N92000002,2021-02-19,30.5,2.1
+nation,Northern Ireland,N92000002,2021-02-18,30.0,2.1
+nation,Northern Ireland,N92000002,2021-02-17,29.4,2.1
+nation,Northern Ireland,N92000002,2021-02-16,28.8,2.0
+nation,Northern Ireland,N92000002,2021-02-15,28.2,2.0
+nation,Northern Ireland,N92000002,2021-02-14,27.3,2.0
+nation,Northern Ireland,N92000002,2021-02-13,26.9,2.0
+nation,Northern Ireland,N92000002,2021-02-12,26.7,2.0
+nation,Northern Ireland,N92000002,2021-02-11,25.7,2.0
+nation,Northern Ireland,N92000002,2021-02-10,24.3,1.9
+nation,Northern Ireland,N92000002,2021-02-09,23.0,1.9
+nation,Northern Ireland,N92000002,2021-02-08,21.9,1.9
+nation,Northern Ireland,N92000002,2021-02-07,20.9,1.9
+nation,Northern Ireland,N92000002,2021-02-06,20.4,1.9
+nation,Northern Ireland,N92000002,2021-02-05,20.0,1.8
+nation,Northern Ireland,N92000002,2021-02-04,18.9,1.8
+nation,Northern Ireland,N92000002,2021-02-03,18.2,1.8
+nation,Northern Ireland,N92000002,2021-02-02,17.0,1.7
+nation,Northern Ireland,N92000002,2021-02-01,16.1,1.7
+nation,Northern Ireland,N92000002,2021-01-31,15.3,1.7
+nation,Northern Ireland,N92000002,2021-01-30,14.8,1.7
+nation,Northern Ireland,N92000002,2021-01-29,14.0,1.7
+nation,Northern Ireland,N92000002,2021-01-28,13.5,1.7
+nation,Northern Ireland,N92000002,2021-01-27,12.1,1.6
+nation,Northern Ireland,N92000002,2021-01-26,11.6,1.6
+nation,Northern Ireland,N92000002,2021-01-25,11.2,1.6
+nation,Northern Ireland,N92000002,2021-01-24,11.0,1.6
+nation,Northern Ireland,N92000002,2021-01-23,10.7,1.6
+nation,Northern Ireland,N92000002,2021-01-22,10.6,1.6
+nation,Northern Ireland,N92000002,2021-01-21,10.4,1.5
+nation,Northern Ireland,N92000002,2021-01-20,9.9,1.5
+nation,Northern Ireland,N92000002,2021-01-19,9.5,1.5
+nation,Northern Ireland,N92000002,2021-01-18,9.1,1.5
+nation,Northern Ireland,N92000002,2021-01-17,8.7,1.4
+nation,Northern Ireland,N92000002,2021-01-16,8.3,1.4
+nation,Northern Ireland,N92000002,2021-01-15,8.1,1.3
+nation,Northern Ireland,N92000002,2021-01-14,7.9,1.3
+nation,Northern Ireland,N92000002,2021-01-13,7.1,1.3
+nation,Northern Ireland,N92000002,2021-01-12,6.3,1.2
+nation,Northern Ireland,N92000002,2021-01-11,5.8,1.1
+nation,Northern Ireland,N92000002,2021-01-10,5.4,1.0
+nation,Scotland,S92000003,2021-05-07,65.0,32.7
+nation,Scotland,S92000003,2021-05-06,64.9,32.1
+nation,Scotland,S92000003,2021-05-05,64.5,31.6
+nation,Scotland,S92000003,2021-05-04,64.2,31.0
+nation,Scotland,S92000003,2021-05-03,63.9,30.4
+nation,Scotland,S92000003,2021-05-02,63.7,29.9
+nation,Scotland,S92000003,2021-05-01,63.5,29.3
+nation,Scotland,S92000003,2021-04-30,63.4,28.5
+nation,Scotland,S92000003,2021-04-29,63.2,27.6
+nation,Scotland,S92000003,2021-04-28,63.1,26.7
+nation,Scotland,S92000003,2021-04-27,62.9,25.8
+nation,Scotland,S92000003,2021-04-26,62.7,24.9
+nation,Scotland,S92000003,2021-04-25,62.6,24.1
+nation,Scotland,S92000003,2021-04-24,62.5,23.5
+nation,Scotland,S92000003,2021-04-23,62.3,22.4
+nation,Scotland,S92000003,2021-04-22,62.2,21.4
+nation,Scotland,S92000003,2021-04-21,62.1,20.3
+nation,Scotland,S92000003,2021-04-20,62.1,19.1
+nation,Scotland,S92000003,2021-04-19,62.0,18.0
+nation,Scotland,S92000003,2021-04-18,62.0,17.1
+nation,Scotland,S92000003,2021-04-17,61.9,16.7
+nation,Scotland,S92000003,2021-04-16,61.6,16.1
+nation,Scotland,S92000003,2021-04-15,61.4,15.5
+nation,Scotland,S92000003,2021-04-14,61.1,14.9
+nation,Scotland,S92000003,2021-04-13,60.8,14.3
+nation,Scotland,S92000003,2021-04-12,60.5,13.6
+nation,Scotland,S92000003,2021-04-11,60.2,13.3
+nation,Scotland,S92000003,2021-04-10,59.9,12.8
+nation,Scotland,S92000003,2021-04-09,59.6,12.4
+nation,Scotland,S92000003,2021-04-08,59.2,11.8
+nation,Scotland,S92000003,2021-04-07,58.8,11.3
+nation,Scotland,S92000003,2021-04-06,58.5,10.8
+nation,Scotland,S92000003,2021-04-05,58.1,10.5
+nation,Scotland,S92000003,2021-04-04,57.9,10.3
+nation,Scotland,S92000003,2021-04-03,57.6,10.2
+nation,Scotland,S92000003,2021-04-02,57.2,9.8
+nation,Scotland,S92000003,2021-04-01,56.7,9.3
+nation,Scotland,S92000003,2021-03-31,56.2,9.0
+nation,Scotland,S92000003,2021-03-30,55.6,8.4
+nation,Scotland,S92000003,2021-03-29,55.0,7.9
+nation,Scotland,S92000003,2021-03-28,54.4,7.5
+nation,Scotland,S92000003,2021-03-27,53.8,7.2
+nation,Scotland,S92000003,2021-03-26,53.2,6.6
+nation,Scotland,S92000003,2021-03-25,52.4,6.3
+nation,Scotland,S92000003,2021-03-24,51.5,5.9
+nation,Scotland,S92000003,2021-03-23,50.7,5.6
+nation,Scotland,S92000003,2021-03-22,49.9,5.3
+nation,Scotland,S92000003,2021-03-21,49.2,5.1
+nation,Scotland,S92000003,2021-03-20,48.4,5.0
+nation,Scotland,S92000003,2021-03-19,47.6,4.8
+nation,Scotland,S92000003,2021-03-18,46.6,4.5
+nation,Scotland,S92000003,2021-03-17,45.6,4.3
+nation,Scotland,S92000003,2021-03-16,44.7,4.1
+nation,Scotland,S92000003,2021-03-15,43.8,3.9
+nation,Scotland,S92000003,2021-03-14,43.1,3.7
+nation,Scotland,S92000003,2021-03-13,42.6,3.6
+nation,Scotland,S92000003,2021-03-12,42.1,3.5
+nation,Scotland,S92000003,2021-03-11,41.6,3.4
+nation,Scotland,S92000003,2021-03-10,41.2,3.2
+nation,Scotland,S92000003,2021-03-09,40.8,3.0
+nation,Scotland,S92000003,2021-03-08,40.4,2.8
+nation,Scotland,S92000003,2021-03-07,40.0,2.7
+nation,Scotland,S92000003,2021-03-06,39.7,2.6
+nation,Scotland,S92000003,2021-03-05,39.3,2.6
+nation,Scotland,S92000003,2021-03-04,38.7,2.4
+nation,Scotland,S92000003,2021-03-03,38.1,2.3
+nation,Scotland,S92000003,2021-03-02,37.5,2.1
+nation,Scotland,S92000003,2021-03-01,36.9,1.9
+nation,Scotland,S92000003,2021-02-28,36.3,1.8
+nation,Scotland,S92000003,2021-02-27,35.9,1.7
+nation,Scotland,S92000003,2021-02-26,35.4,1.6
+nation,Scotland,S92000003,2021-02-25,34.8,1.5
+nation,Scotland,S92000003,2021-02-24,34.2,1.3
+nation,Scotland,S92000003,2021-02-23,33.6,1.1
+nation,Scotland,S92000003,2021-02-22,33.0,1.0
+nation,Scotland,S92000003,2021-02-21,32.6,0.8
+nation,Scotland,S92000003,2021-02-20,32.3,0.8
+nation,Scotland,S92000003,2021-02-19,31.9,0.8
+nation,Scotland,S92000003,2021-02-18,31.3,0.7
+nation,Scotland,S92000003,2021-02-17,30.6,0.5
+nation,Scotland,S92000003,2021-02-16,29.8,0.5
+nation,Scotland,S92000003,2021-02-15,29.0,0.4
+nation,Scotland,S92000003,2021-02-14,28.3,0.3
+nation,Scotland,S92000003,2021-02-13,27.6,0.3
+nation,Scotland,S92000003,2021-02-12,26.5,0.3
+nation,Scotland,S92000003,2021-02-11,25.1,0.3
+nation,Scotland,S92000003,2021-02-10,23.7,0.3
+nation,Scotland,S92000003,2021-02-09,22.2,0.3
+nation,Scotland,S92000003,2021-02-08,20.9,0.3
+nation,Scotland,S92000003,2021-02-07,19.5,0.2
+nation,Scotland,S92000003,2021-02-06,18.9,0.2
+nation,Scotland,S92000003,2021-02-05,17.7,0.2
+nation,Scotland,S92000003,2021-02-04,16.7,0.2
+nation,Scotland,S92000003,2021-02-03,15.7,0.2
+nation,Scotland,S92000003,2021-02-02,14.6,0.2
+nation,Scotland,S92000003,2021-02-01,13.8,0.2
+nation,Scotland,S92000003,2021-01-31,13.0,0.2
+nation,Scotland,S92000003,2021-01-30,12.8,0.2
+nation,Scotland,S92000003,2021-01-29,12.3,0.2
+nation,Scotland,S92000003,2021-01-28,11.6,0.2
+nation,Scotland,S92000003,2021-01-27,11.1,0.2
+nation,Scotland,S92000003,2021-01-26,10.4,0.1
+nation,Scotland,S92000003,2021-01-25,9.9,0.1
+nation,Scotland,S92000003,2021-01-24,9.4,0.1
+nation,Scotland,S92000003,2021-01-23,9.1,0.1
+nation,Scotland,S92000003,2021-01-22,8.6,0.1
+nation,Scotland,S92000003,2021-01-21,8.1,0.1
+nation,Scotland,S92000003,2021-01-20,7.6,0.1
+nation,Scotland,S92000003,2021-01-19,7.0,0.1
+nation,Scotland,S92000003,2021-01-18,6.4,0.1
+nation,Scotland,S92000003,2021-01-17,6.0,0.1
+nation,Scotland,S92000003,2021-01-16,5.9,0.1
+nation,Scotland,S92000003,2021-01-15,5.5,0.1
+nation,Scotland,S92000003,2021-01-14,5.1,0.1
+nation,Scotland,S92000003,2021-01-13,4.7,0.1
+nation,Scotland,S92000003,2021-01-12,4.3,0.1
+nation,Scotland,S92000003,2021-01-11,4.0,0.1
+nation,Scotland,S92000003,2021-01-10,3.7,0.1
+nation,Wales,W92000004,2021-05-07,75.2,32.3
+nation,Wales,W92000004,2021-05-06,75.2,32.3
+nation,Wales,W92000004,2021-05-05,74.7,31.7
+nation,Wales,W92000004,2021-05-04,74.2,31.0
+nation,Wales,W92000004,2021-05-03,73.9,30.6
+nation,Wales,W92000004,2021-05-02,73.8,30.6
+nation,Wales,W92000004,2021-05-01,73.5,30.5
+nation,Wales,W92000004,2021-04-30,73.2,30.3
+nation,Wales,W92000004,2021-04-29,72.6,29.7
+nation,Wales,W92000004,2021-04-28,72.0,29.0
+nation,Wales,W92000004,2021-04-27,71.4,28.4
+nation,Wales,W92000004,2021-04-26,70.8,27.8
+nation,Wales,W92000004,2021-04-25,70.4,27.3
+nation,Wales,W92000004,2021-04-24,70.1,27.2
+nation,Wales,W92000004,2021-04-23,69.7,26.6
+nation,Wales,W92000004,2021-04-22,69.1,25.9
+nation,Wales,W92000004,2021-04-21,68.5,25.2
+nation,Wales,W92000004,2021-04-20,67.9,24.7
+nation,Wales,W92000004,2021-04-19,67.3,24.2
+nation,Wales,W92000004,2021-04-18,67.1,23.9
+nation,Wales,W92000004,2021-04-17,66.8,23.8
+nation,Wales,W92000004,2021-04-16,66.3,23.3
+nation,Wales,W92000004,2021-04-15,65.7,22.8
+nation,Wales,W92000004,2021-04-14,65.0,22.2
+nation,Wales,W92000004,2021-04-13,64.3,21.8
+nation,Wales,W92000004,2021-04-12,63.5,21.3
+nation,Wales,W92000004,2021-04-11,62.9,20.9
+nation,Wales,W92000004,2021-04-10,62.3,20.8
+nation,Wales,W92000004,2021-04-09,61.7,20.2
+nation,Wales,W92000004,2021-04-08,60.9,19.8
+nation,Wales,W92000004,2021-04-07,60.2,19.2
+nation,Wales,W92000004,2021-04-06,59.6,18.8
+nation,Wales,W92000004,2021-04-05,59.2,18.6
+nation,Wales,W92000004,2021-04-04,59.1,18.5
+nation,Wales,W92000004,2021-04-03,58.8,18.5
+nation,Wales,W92000004,2021-04-02,58.4,18.4
+nation,Wales,W92000004,2021-04-01,57.9,18.2
+nation,Wales,W92000004,2021-03-31,57.2,17.8
+nation,Wales,W92000004,2021-03-30,56.6,17.4
+nation,Wales,W92000004,2021-03-29,56.0,16.8
+nation,Wales,W92000004,2021-03-28,55.5,16.5
+nation,Wales,W92000004,2021-03-27,55.0,16.4
+nation,Wales,W92000004,2021-03-26,54.1,15.9
+nation,Wales,W92000004,2021-03-25,53.2,15.4
+nation,Wales,W92000004,2021-03-24,52.3,15.0
+nation,Wales,W92000004,2021-03-23,51.6,14.5
+nation,Wales,W92000004,2021-03-22,51.1,14.0
+nation,Wales,W92000004,2021-03-21,50.5,13.7
+nation,Wales,W92000004,2021-03-20,49.9,13.4
+nation,Wales,W92000004,2021-03-19,48.8,13.1
+nation,Wales,W92000004,2021-03-18,47.7,12.6
+nation,Wales,W92000004,2021-03-17,46.8,12.1
+nation,Wales,W92000004,2021-03-16,45.9,11.5
+nation,Wales,W92000004,2021-03-15,45.2,10.8
+nation,Wales,W92000004,2021-03-14,44.5,10.5
+nation,Wales,W92000004,2021-03-13,44.1,10.2
+nation,Wales,W92000004,2021-03-12,43.0,9.9
+nation,Wales,W92000004,2021-03-11,41.9,9.4
+nation,Wales,W92000004,2021-03-10,41.0,8.8
+nation,Wales,W92000004,2021-03-09,40.4,8.2
+nation,Wales,W92000004,2021-03-08,39.9,7.6
+nation,Wales,W92000004,2021-03-07,39.6,7.3
+nation,Wales,W92000004,2021-03-06,39.4,7.0
+nation,Wales,W92000004,2021-03-05,39.0,6.7
+nation,Wales,W92000004,2021-03-04,38.3,6.1
+nation,Wales,W92000004,2021-03-03,37.7,5.5
+nation,Wales,W92000004,2021-03-02,37.3,4.9
+nation,Wales,W92000004,2021-03-01,37.0,4.4
+nation,Wales,W92000004,2021-02-28,36.7,4.1
+nation,Wales,W92000004,2021-02-27,36.6,3.8
+nation,Wales,W92000004,2021-02-26,36.3,3.5
+nation,Wales,W92000004,2021-02-25,35.8,3.2
+nation,Wales,W92000004,2021-02-24,35.2,2.8
+nation,Wales,W92000004,2021-02-23,34.8,2.3
+nation,Wales,W92000004,2021-02-22,34.5,2.0
+nation,Wales,W92000004,2021-02-21,34.2,1.7
+nation,Wales,W92000004,2021-02-20,34.1,1.5
+nation,Wales,W92000004,2021-02-19,33.8,1.3
+nation,Wales,W92000004,2021-02-18,33.3,1.0
+nation,Wales,W92000004,2021-02-17,32.6,0.8
+nation,Wales,W92000004,2021-02-16,32.0,0.5
+nation,Wales,W92000004,2021-02-15,31.5,0.3
+nation,Wales,W92000004,2021-02-14,31.1,0.2
+nation,Wales,W92000004,2021-02-13,30.6,0.2
+nation,Wales,W92000004,2021-02-12,29.7,0.2
+nation,Wales,W92000004,2021-02-11,28.4,0.2
+nation,Wales,W92000004,2021-02-10,27.1,0.2
+nation,Wales,W92000004,2021-02-09,26.0,0.1
+nation,Wales,W92000004,2021-02-08,24.9,0.1
+nation,Wales,W92000004,2021-02-07,23.9,0.1
+nation,Wales,W92000004,2021-02-06,23.4,0.1
+nation,Wales,W92000004,2021-02-05,22.1,0.1
+nation,Wales,W92000004,2021-02-04,20.7,0.1
+nation,Wales,W92000004,2021-02-03,19.4,
+nation,Wales,W92000004,2021-02-02,18.3,
+nation,Wales,W92000004,2021-02-01,17.4,
+nation,Wales,W92000004,2021-01-31,16.5,
+nation,Wales,W92000004,2021-01-30,16.0,
+nation,Wales,W92000004,2021-01-29,15.0,
+nation,Wales,W92000004,2021-01-28,14.4,
+nation,Wales,W92000004,2021-01-27,13.3,
+nation,Wales,W92000004,2021-01-26,12.4,
+nation,Wales,W92000004,2021-01-25,11.5,
+nation,Wales,W92000004,2021-01-24,10.7,
+nation,Wales,W92000004,2021-01-23,10.5,
+nation,Wales,W92000004,2021-01-22,9.5,
+nation,Wales,W92000004,2021-01-21,8.4,
+nation,Wales,W92000004,2021-01-20,7.5,
+nation,Wales,W92000004,2021-01-19,7.0,
+nation,Wales,W92000004,2021-01-18,6.4,
+nation,Wales,W92000004,2021-01-17,6.0,
+nation,Wales,W92000004,2021-01-16,5.0,
+nation,Wales,W92000004,2021-01-15,5.0,
+nation,Wales,W92000004,2021-01-14,5.0,
+nation,Wales,W92000004,2021-01-13,4.5,
+nation,Wales,W92000004,2021-01-12,4.0,
+nation,Wales,W92000004,2021-01-11,3.6,
+nation,Wales,W92000004,2021-01-10,3.4,
