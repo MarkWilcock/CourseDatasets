@@ -1,6 +1,6 @@
-Property Type Code, Property Type
-D, Detached
-F, Flat
-S, Semi
-T, Terraced
-O, Other
+Property Type Code, Property Type,Property Type Colour Hex,Property Type Colour CSS
+D, Detached,#e41a1c,Crimson
+F, Flat,#377eb8,DarkGreen
+S, Semi,#4daf4a,DarkBlue
+T, Terraced,#984ea3,Teal
+O, Other,#ff7f00,DarkOrange
