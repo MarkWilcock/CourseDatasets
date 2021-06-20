@@ -1,0 +1,141 @@
+﻿Region,Country ,Gender,Year,Lifespan
+Asia & Oceania,Australia,Men,2010,80.1
+Asia & Oceania,Australia,Men,2030,84
+Asia & Oceania,Australia,Women,2010,84.53
+Asia & Oceania,Australia,Women,2030,87.57
+Western Europe,Austria,Men,2010,77.73
+Western Europe,Austria,Men,2030,81.4
+Western Europe,Austria,Women,2010,83.21
+Western Europe,Austria,Women,2030,86.22
+Western Europe,Belgium,Men,2010,77.35
+Western Europe,Belgium,Men,2030,80.88
+Western Europe,Belgium,Women,2010,82.76
+Western Europe,Belgium,Women,2030,85.64
+Eastern Europe,Bulgaria,Men,2010,70.21
+Eastern Europe,Bulgaria,Men,2030,74.07
+Eastern Europe,Bulgaria,Women,2010,77.33
+Eastern Europe,Bulgaria,Women,2030,78.87
+Americas,Canada,Men,2010,79.41
+Americas,Canada,Men,2030,83.89
+Americas,Canada,Women,2010,83.94
+Americas,Canada,Women,2030,87.09
+Americas,Chile,Men,2010,76.74
+Americas,Chile,Men,2030,80.74
+Americas,Chile,Women,2010,82.95
+Americas,Chile,Women,2030,86.89
+Eastern Europe,Croatia,Men,2010,73.1
+Eastern Europe,Croatia,Men,2030,77.8
+Eastern Europe,Croatia,Women,2010,79.8
+Eastern Europe,Croatia,Women,2030,83.19
+Eastern Europe,Czech Republic,Men,2010,74.36
+Eastern Europe,Czech Republic,Men,2030,79.51
+Eastern Europe,Czech Republic,Women,2010,80.63
+Eastern Europe,Czech Republic,Women,2030,84.42
+Western Europe,Denmark,Men,2010,77.22
+Western Europe,Denmark,Men,2030,82.53
+Western Europe,Denmark,Women,2010,81.33
+Western Europe,Denmark,Women,2030,84.95
+Western Europe,Finland,Men,2010,76.72
+Western Europe,Finland,Men,2030,81.05
+Western Europe,Finland,Women,2010,83.3
+Western Europe,Finland,Women,2030,86.43
+Western Europe,France,Men,2010,77.93
+Western Europe,France,Men,2030,81.74
+Western Europe,France,Women,2010,84.86
+Western Europe,France,Women,2030,88.55
+Western Europe,Germany,Men,2010,77.91
+Western Europe,Germany,Men,2030,81.96
+Western Europe,Germany,Women,2010,82.81
+Western Europe,Germany,Women,2030,85.86
+Western Europe,Greece,Men,2010,77.89
+Western Europe,Greece,Men,2030,80.59
+Western Europe,Greece,Women,2010,82.63
+Western Europe,Greece,Women,2030,84.82
+Eastern Europe,Hungary,Men,2010,70.65
+Eastern Europe,Hungary,Men,2030,78.18
+Eastern Europe,Hungary,Women,2010,78.42
+Eastern Europe,Hungary,Women,2030,81.74
+Western Europe,Ireland,Men,2010,77.96
+Western Europe,Ireland,Men,2030,83.22
+Western Europe,Ireland,Women,2010,82.59
+Western Europe,Ireland,Women,2030,86.15
+Western Europe,Italy,Men,2010,78.94
+Western Europe,Italy,Men,2030,82.82
+Western Europe,Italy,Women,2010,84.18
+Western Europe,Italy,Women,2030,87.28
+Asia & Oceania,Japan,Men,2010,79.44
+Asia & Oceania,Japan,Men,2030,82.75
+Asia & Oceania,Japan,Women,2010,86.66
+Asia & Oceania,Japan,Women,2030,88.41
+Eastern Europe,Macedonia (TFYR),Men,2010,72.29
+Eastern Europe,Macedonia (TFYR),Men,2030,74.65
+Eastern Europe,Macedonia (TFYR),Women,2010,76.47
+Eastern Europe,Macedonia (TFYR),Women,2030,77.83
+Americas,Mexico,Men,2010,73.15
+Americas,Mexico,Men,2030,76.15
+Americas,Mexico,Women,2010,78.91
+Americas,Mexico,Women,2030,82.96
+Western Europe,Netherlands,Men,2010,78.91
+Western Europe,Netherlands,Men,2030,83.69
+Western Europe,Netherlands,Women,2010,82.85
+Western Europe,Netherlands,Women,2030,85.39
+Asia & Oceania,New Zealand,Men,2010,79.01
+Asia & Oceania,New Zealand,Men,2030,83.59
+Asia & Oceania,New Zealand,Women,2010,82.8
+Asia & Oceania,New Zealand,Women,2030,85.96
+Western Europe,Norway,Men,2010,78.69
+Western Europe,Norway,Men,2030,83.16
+Western Europe,Norway,Women,2010,83.08
+Western Europe,Norway,Women,2030,85.55
+Eastern Europe,Poland,Men,2010,71.86
+Eastern Europe,Poland,Men,2030,77.21
+Eastern Europe,Poland,Women,2010,80.4
+Eastern Europe,Poland,Women,2030,84.01
+Western Europe,Portugal,Men,2010,76.71
+Western Europe,Portugal,Men,2030,81.68
+Western Europe,Portugal,Women,2010,83.14
+Western Europe,Portugal,Women,2030,87.52
+Eastern Europe,Romania,Men,2010,70.12
+Eastern Europe,Romania,Men,2030,74.21
+Eastern Europe,Romania,Women,2010,77.46
+Eastern Europe,Romania,Women,2030,81.24
+Eastern Europe,Serbia,Men,2010,70.25
+Eastern Europe,Serbia,Men,2030,73.37
+Eastern Europe,Serbia,Women,2010,75.71
+Eastern Europe,Serbia,Women,2030,78.27
+Asia & Oceania,Singapore,Men,2010,75.87
+Asia & Oceania,Singapore,Men,2030,79.57
+Asia & Oceania,Singapore,Women,2010,81.54
+Asia & Oceania,Singapore,Women,2030,84.81
+Eastern Europe,Slovakia,Men,2010,71.62
+Eastern Europe,Slovakia,Men,2030,76.98
+Eastern Europe,Slovakia,Women,2010,79.25
+Eastern Europe,Slovakia,Women,2030,82.92
+Eastern Europe,Slovenia,Men,2010,75.88
+Eastern Europe,Slovenia,Men,2030,82.26
+Eastern Europe,Slovenia,Women,2010,82.68
+Eastern Europe,Slovenia,Women,2030,87.42
+Asia & Oceania,South Korea,Men,2010,77.11
+Asia & Oceania,South Korea,Men,2030,84.07
+Asia & Oceania,South Korea,Women,2010,84.23
+Asia & Oceania,South Korea,Women,2030,90.82
+Western Europe,Spain,Men,2010,78.66
+Western Europe,Spain,Men,2030,83.47
+Western Europe,Spain,Women,2010,84.83
+Western Europe,Spain,Women,2030,88.07
+Western Europe,Sweden,Men,2010,79.55
+Western Europe,Sweden,Men,2030,82.52
+Western Europe,Sweden,Women,2010,83.49
+Western Europe,Sweden,Women,2030,85.98
+Western Europe,Switzerland,Men,2010,80.01
+Western Europe,Switzerland,Men,2030,83.95
+Western Europe,Switzerland,Women,2010,84.59
+Western Europe,Switzerland,Women,2030,87.7
+Western Europe,United Kingdom,Men,2010,78.34
+Western Europe,United Kingdom,Men,2030,82.47
+Western Europe,United Kingdom,Women,2010,82.32
+Western Europe,United Kingdom,Women,2030,85.25
+Americas,United States of America,Men,2010,76.52
+Americas,United States of America,Men,2030,79.51
+Americas,United States of America,Women,2010,81.24
+Americas,United States of America,Women,2030,83.32
