@@ -1,0 +1,148 @@
+URL: https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/general-practice-data-for-planning-and-research
+
+To provide more time to speak with patients, doctors, health charities and others, the collection of GP data for Planning and Research in England has been deferred from 1 July to 1 September 2021.
+
+Why NHS Digital collects general practice data
+NHS Digital is the national custodian for health and care data in England and has responsibility for standardising, collecting, analysing, publishing and sharing data and information from across the health and social care system, including general practice.
+
+NHS Digital collected patient data from general practices using a service called the General Practice Extraction Service (GPES), which has operated for over 10 years and now needs to be replaced.
+
+NHS Digital has engaged with doctors, patients, data and governance experts to design a new approach to collect data from general practice that:
+
+reduces burden on GP practices
+explains clearly how data is used 
+supports processes that manage and enable lawful access to patient data to improve health and social care
+What the data will be used for
+Patient data collected from general practice is needed to support a wide variety of research and analysis to help run and improve health and care services. Whilst the data collected in other care settings such as hospitals is valuable in understanding and improving specific services, it is the patient data in general practice that helps us to understand whether the health and care system as a whole is working for patients.
+
+In addition to replacing what GPES already does, the General Practice Data for Planning and Research service will also help to support the planning and commissioning of health and care services, the development of health and care policy, public health monitoring and interventions (including coronavirus (COVID-19) and enable many different areas of research, for example:
+
+1. Research the long-term impact of coronavirus on the population
+There is a lot about coronavirus that we do not know, including the long-term health impacts. Patient data from GP medical records will be very important in the coming months and years, as scientists analyse and understand the impact of the virus on human health.
+
+2. Analyse healthcare inequalities
+For example, to understand how people of different ethnicities access healthcare and how the outcomes of particular groups compare to the rest of the population. This will help the NHS to assess healthcare inequalities and make any necessary changes to its services.
+
+3. Research and develop cures for serious illnesses
+For example, patient data is being used by the University of Oxford RECOVERY trial, which has found ways to improve the treatment for people with coronavirus.
+
+Researchers have previously used patient data from GP medical records to show that there was no association between the measles, mumps and rubella vaccine and the development of autism; to confirm the safety of the meningococcal group B vaccine; and to investigate whether certain medications increase the risk of cancer.
+
+What data is shared
+This data will be shared from 1 September 2021. Data may be shared from the GP medical records about:
+
+any living patient registered at a GP practice in England when the collection started - this includes children and adults
+any patient who died after 1 September 2021, and was previously registered at a GP practice in England when the data collection started
+NHS Digital will not collect patients’ names or addresses. Any other data that could directly identify patients (such as NHS Number, date of birth, full postcode) is replaced with unique codes which are produced by de-identification software before the data is shared with NHS Digital.
+
+This process is called pseudonymisation and means that patients will not be identified directly in the data. NHS Digital will be able to use the software to convert the unique codes back to data that could directly identify patients in certain circumstances, and where there is a valid legal reason.
+
+We will collect structured and coded data from patient medical records.
+
+NHS Digital will collect:
+data about diagnoses, symptoms, observations, test results, medications, allergies, immunisations, referrals, recalls and appointments, including information about physical, mental and sexual health
+data on sex, ethnicity and sexual orientation
+data about staff who have treated patients
+NHS Digital does not collect:
+name and address (except for postcode, protected in a unique coded form)
+written notes (free text), such as the details of conversations with doctors and nurses
+images, letters and documents  
+coded data that is not needed due to its age - for example medication, referral and appointment data that is over 10 years old
+coded data that GPs are not permitted to share by law - for example certain codes about IVF treatment, and certain information about gender re-assignment
+
+Opting out
+If you don’t want your identifiable patient data to be shared for purposes except for your own care, you can opt-out by registering a Type 1 Opt-out or a National Data Opt-out, or both. These opt-outs are different and they are explained in more detail below. Your individual care will not be affected if you opt-out using either option.
+
+Type 1 Opt-out (opting out of NHS Digital collecting your data)
+We will not collect data from GP practices about patients who have registered a Type 1 Opt-out with their practice. More information about Type 1 Opt-outs is in our GP Data for Planning and Research Transparency Notice, including a form that you can complete and send to your GP practice.
+
+ARTICLE
+General Practice Data for Planning and Research: NHS Digital Transparency Notice
+
+How and why NHS Digital collects, analyses, publishes and shares data collected from GP practices for planning and research.
+
+This collection will start on 1 September 2021. 
+
+If you register a Type 1 Opt-out after this collection has started, no more of your data will be shared with us. We will, however, still hold the patient data which was shared with us before you registered the Type 1 Opt-out.
+
+If you do not want NHS Digital to share your identifiable patient data with anyone else for purposes beyond your own care, then you can also register a National Data Opt-out.
+
+National Data Opt-out (opting out of NHS Digital sharing your data)
+We will collect data from GP medical records about patients who have registered a National Data Opt-out. The National Data Opt-out applies to identifiable patient data about your health, which is called confidential patient information.
+
+NHS Digital won’t share any confidential patient information about you - this includes GP data, or other data we hold, such as hospital data - with other organisations, unless there is an exemption to this.
+
+To find out more information and how to register a National Data Opt-Out, please read our GP Data for Planning and Research Transparency Notice.
+
+How NHS Digital makes decisions about data access
+NHS Digital has a strict and well-established process for providing access to data for external organisations. You can read about this in how NHS Digital makes decisions about data access.
+
+How we make data available
+NHS Digital collects, analyses, publishes and shares health and care data safely, securely and appropriately as part of our statutory functions.
+
+Data which is shared by NHS Digital is subject to robust rules relating to privacy, security and confidentiality. Organisations using this data must have a clear legal basis to do so for health and care purposes and only the minimum amount of data needed to meet the specific purpose will be made available.
+
+Data will only be made available in response to appropriate requests from organisations which are approved following independent scrutiny by our Independent Group Advising on the Release of Data.
+
+More information about how and why NHS Digital will share data from GP practices is available in our General Practice Data for Planning and Research Transparency Notice. We also publish information about the data that we share in our data release register.
+
+Additional information for patients and the public
+More information for patients and the public about how NHS Digital is processing GP data to support health and care, including our legal basis and your choices can be found in NHS Digital's GP Data for Planning and Research Transparency Notice. 
+
+Additional information for GP practices
+Register your participation
+GP practices should comply with the Data Provision Notice by registering your participation on your GP medical record system. This only has to be done once - your GP system supplier can provide further guidance.
+
+Update your patient privacy information
+GP practices have a legal duty to be transparent and to provide patients with information under the UK General Data Protection Regulation (GDPR) about the data they are sharing with others.
+
+To help GP practices provide information about the General Practice Data for Planning and Research data collection, NHS Digital has produced a GP Practice Privacy Notice which GPs can add as a link to their current privacy notice by publishing the following statement and link on your website:
+
+"This practice is supporting vital health and care planning and research by sharing your data with NHS Digital. For more information about this see the GP Practice Privacy Notice for General Practice Data for Planning and Research."
+
+GP practices may also wish to include information about this collection in regular communications to inform patients about the new data collections including newsletters, Facebook groups and waiting room screens. We have created a helpful animation for patients that explains what data is being collected and why which you can also link to. You can also access a downloadable poster.
+
+Data collection
+Data will only be provided to NHS Digital by your GP system suppliers after you have confirmed to your system supplier that you have complied with the Data Provision Notice.  The earliest this data will be provided to us by your system supplier is 1 September 2021.
+
+Registering Type 1 Opt-outs
+You will need to register Type 1 Opt-outs (or a withdrawal of the Type 1 Opt-out) in your system. The codes you need to use to register or withdraw the Type 1 Opt-out are:
+
+Code type	SNOMED code	Read2 code	CTV3 code
+Opt-out - Dissent code	827241000000103 |Dissent from secondary use of general practitioner patient identifiable data (finding)| 	9Nu0	XaZ89
+Opt-in - Dissent withdrawal code	827261000000102 |Dissent withdrawn for secondary use of general practitioner patient identifiable data (finding)|	9Nu1	XaZ8A
+Other GP data flows
+NHS Digital will work with other organisations to enable transition from existing data flows to the new NHS Digital General Practice for Planning and Research Service in order to reduce the number of GP data flows currently in existence.
+
+In the meantime, GP practices should continue to support existing data flows and can accept new requests to participate in existing data collections where they consider it safe, legal and beneficial to the health and care of patients. Requests for new data collections for planning and research should be directed to NHS Digital from 1 September 2021.
+
+Further information
+internalCollecting GP data - advice for the public
+NHS Digital's improved collection of GP data will support vital health and care planning and research. Here we explain how and why your data is being used, and what to do if you don't want your data shared.
+
+internalHow NHS Digital makes decisions about data access
+We have a strict and well-established process for providing access to data for external organisations such as charities, academic institutions, and medical research companies.
+
+internalGeneral Practice Data for Planning and Research: GP Practice Privacy Notice
+For patients at participating GP practices, helping you to understand how your medical records are used to improve everyone’s health and care.
+
+internalGeneral Practice Data for Planning and Research: NHS Digital Transparency Notice
+How and why NHS Digital collects, analyses, publishes and shares data collected from GP practices for planning and research.
+
+external
+SNOMED CT(external link, opens in a new tab)
+For information on SNOMED CT, which is a structured clinical vocabulary for use in an electronic health record.
+
+external
+The NHS Digital SNOMED CT Browser(external link, opens in a new tab)
+For information on the NHS Digital SNOMED CT Browser, which provides ways to browse and search the SNOMED CT UK edition.
+
+external
+Legally restricted code lists for fertility, embryology and gender recognition(external link, opens in a new tab)
+For information about all coded record elements identified as being legally restricted under fertility, embryology and gender recognition legislation.
+
+external
+NHS Digital Sensitive Code List (sexually transmitted infections)(external link, opens in a new tab)
+For information about the NHS Digital Sensitive Code List of SNOMED CT codes collected and related reference sets.
+
+
