@@ -1,0 +1,4 @@
+https://docs.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model
+https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
+
+
