@@ -1,5 +1,5 @@
-Country,Capital City,Population (m),Official Colour,Font Colour
-England,London,56.2,#5694ca,#000000
-Scotland,Edinburgh,5.4,#003078,#ffffff
-Northern Ireland,Belfast,1.9,#ffdd00,#000000
-Wales,Cardiff,3.1,#d4351c,#000000
+Country,Capital City,Population (m),Country Group,Geography Group,Official Colour,Font Colour
+England,London,56.5,England,Great Britain,#5694ca,#000000
+Scotland,Edinburgh,5.4,Rest Of UK,Great Britain,#003078,#ffffff
+Northern Ireland,Belfast,1.9,Rest Of UK,Northern Ireland,#ffdd00,#000000
+Wales,Cardiff,3.1,Rest Of UK,Great Britain,#d4351c,#000000
