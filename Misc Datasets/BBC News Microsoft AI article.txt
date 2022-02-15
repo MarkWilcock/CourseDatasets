@@ -1,0 +1,27 @@
+Microsoft's pitch to be an AI winner
+
+Who is doing groundbreaking research into artificial intelligence right now?
+Google and its London-based DeepMind division springs to mind. Facebook has hired some of the biggest thinkers in AI. Then there's IBM with its Watson project - and of course China is pouring vast sums into research, as it tries to replace factory workers with robots.
+But today another contender is shouting out: what about us? Microsoft, the company that dominated the era of desktop computing, is holding an event at which it is showing off its expertise in artificial intelligence, and in effect demanding a bit more respect from the world.
+The event is being held in London - a marker of how much the UK is now seen as a centre of AI research - and Microsoft's top scientists have flown in from around the world to demonstrate their work and lay out their vision of what direction this technology should take next.
+
+One of the applications on display today is Seeing AI, a way to help people with a visual impairment get information about their world through the camera of a smartphone.
+I got my own demo from one of the developers, Saqib Shaikh, who is himself blind.
+He pointed his phone at a document and it read the text aloud. Then a series of bleeps guided him to the barcode on a drinks can and the app told him what it was. Next, he switched into "people mode" and the camera spotted me. I was described as a 52-year-old man, looking first neutral, then happy.
+This may sound relatively straightforward but, as Saqib pointed out, behind the application are years of research into giving computers human skills such as vision, hearing and the ability to spot different emotions.
+Steve Clayton, whose title is Microsoft chief storyteller, wove for me a convincing tale of 25 years of artificial intelligence research that had culminated in projects such as Seeing AI.
+"The first three groups that were part of Microsoft Research were focused around AI - speech, language and vision," he explained.
+"What you see in that application is that work really coming to life and taking computers into a new era where they can see, recognise and understand the world in a similar way to humans."
+As well as showing how its AI expertise was feeding into products - from live translation for PowerPoint presentations to a system that scans closed-circuit video images to recognise specific events - Microsoft was keen to show it had a wider mission than just its own commercial interests.
+It unveiled an initiative called AI For Earth, to give charities and other organisations access to tools that use the technology in areas such as combating climate change. As concern mounts about the potential of artificial intelligence to cause harm or reinforce prejudices, the firm also published what it called its design principles for AI. 
+Emma Williams, general manager for the Bing search engine, says at the heart of all this is putting the human first.
+"The human is the hero - and we are creating AI technology that amplifies human ingenuity so that this can unlock a new era for human innovation and creativity."
+I put it to her that this all sounded very nice but there were hard decisions to be made - for instance about bias in the algorithms that will have growing influence over our lives.
+But she insisted that "fairness, accountability, transparency and ethics" would be at the heart of all their research. The company stresses that the ethics of AI is going to be a cross-industry issue where it is determined to be a leading voice.
+Winner-takes-all game
+Microsoft seems frustrated that all of its work in this field has made less of an impression on the public than Google's DeepMind, with its eye-catching victories at the Chinese game of Go, or IBM's Watson, now being promoted as an all-purpose AI service for all sorts of businesses.
+Azeem Azhar, who writes the weekly Exponential View newsletter about artificial intelligence developments, says he can understand why Microsoft urgently wants its voice heard.
+"AI, like many areas of technology, is likely to be a winner-takes-all game. We've seen that with firms like Google or Facebook, and if AI follows the same pattern, particularly with its demand for lots of data, those who come in the first ranks will win all the rewards and those who come in the second echelon will get nothing."
+He does think, however, that Microsoft's pervasive presence in the world of business gives it a chance to be among the winners.
+Having missed out on the mobile revolution and having been late to cloud computing, Microsoft has decided that it must not be left behind this time in a technology that some are comparing to electricity in its potential impact. 
+Now it just has to make the world listen.
