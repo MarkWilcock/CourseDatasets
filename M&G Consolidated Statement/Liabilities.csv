@@ -1,0 +1,16 @@
+Item,Amount2021,Amount2020,Code,Class,Short Name
+Insurance contract liabilities,63223,76650,L01,Liabilities,Insurance  liabilities
+Investment contract liabilities with discretionary participation features,82743,79623,L02,Liabilities,Investment  liabilities -  discretionary
+Investment contract liabilities without discretionary participation features,14884,15547,L03,Liabilities,Investment liabilities - not  discretionary
+Unallocated surplus of the With-Profits Fund,16723,15621,L04,Liabilities,Unallocated surplus With-Profits 
+Third party interest in consolidated funds,12636,13265,L05,Liabilities,Third party interest
+Subordinated liabilities and other borrowings,8930,8267,L06,Liabilities,Subordinated liabilities
+Defined benefit pension liability,84,170,L07,Liabilities,Defined benefit pension liability
+Deferred tax liabilities,1157,916,L08,Liabilities,Deferred tax liabilities
+Current tax liabilities,323,276,L09,Liabilities,Current tax liabilities
+Derivative liabilities,2689,3460,L10,Liabilities,Derivative liabilities
+Lease liabilities,413,354,L11,Liabilities,Lease liabilities
+Other financial liabilities,2882,3391,L12,Liabilities,Other financial liabilities
+Provisions,138,235,L13,Liabilities,Provisions
+Accruals deferred income and other liabilities,6964,5291,L14,Liabilities,Accruals deferred income
+Liabilities held for sale,0,75,L15,Liabilities,Liabilities held for sale

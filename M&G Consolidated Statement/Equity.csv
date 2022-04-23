@@ -1,0 +1,8 @@
+Item,Amount2021,Amount2020,Code,Class,Short Name
+Share capital,130,130,E01,Equity,Share capital
+Share premium reserve,370,370,E02,Equity,Share premium reserve
+Shares held by employee benefit trust,-93,-117,E03,Equity,Shares in employee trust
+Treasury shares,-1,-1,E04,Equity,Treasury shares
+Retained earnings,16550,16853,E05,Equity,Retained earnings
+Other reserves,-11660,-11658,E06,Equity,Other reserves
+Non-controlling interests,49,8,E07,Equity,Non-controlling interests
