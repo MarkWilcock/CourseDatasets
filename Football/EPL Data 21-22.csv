@@ -280,3 +280,63 @@ Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF
 13/03/2022,14:00,West Ham,Aston Villa,2,1,H,0,0,D,J Gillett,11,13,4,7,9,3,5,7,1,0,0,0
 13/03/2022,16:30,Arsenal,Leicester,2,0,H,1,0,H,A Taylor,21,6,8,3,8,10,2,6,0,3,0,0
 14/03/2022,20:00,Crystal Palace,Man City,0,0,D,0,0,D,M Atkinson,7,18,1,4,6,11,2,6,3,1,0,0
+16/03/2022,19:30,Brighton,Tottenham,0,2,A,0,1,A,R Jones,15,17,0,7,11,9,6,3,2,2,0,0
+16/03/2022,20:15,Arsenal,Liverpool,0,2,A,0,0,D,A Marriner,9,9,2,3,9,9,1,6,0,1,0,0
+17/03/2022,19:45,Everton,Newcastle,1,0,H,0,0,D,C Pawson,9,17,3,6,13,11,5,7,2,1,1,0
+18/03/2022,20:00,Wolves,Leeds,2,3,A,2,0,H,K Friend,14,15,8,6,13,14,2,5,1,4,1,0
+19/03/2022,12:30,Aston Villa,Arsenal,0,1,A,0,1,A,A Madley,8,10,1,3,13,14,6,5,3,3,0,0
+20/03/2022,14:00,Leicester,Brentford,2,1,H,2,0,H,D England,12,15,4,6,10,10,2,5,1,2,0,0
+20/03/2022,16:30,Tottenham,West Ham,3,1,H,2,1,H,A Taylor,17,6,4,1,7,7,5,3,0,1,0,0
+02/04/2022,12:30,Liverpool,Watford,2,0,H,1,0,H,S Attwell,20,5,3,2,9,8,9,3,1,1,0,0
+02/04/2022,15:00,Brighton,Norwich,0,0,D,0,0,D,S Hooper,31,6,4,0,12,11,11,2,1,1,0,0
+02/04/2022,15:00,Burnley,Man City,0,2,A,0,2,A,C Pawson,3,18,1,6,11,6,1,8,1,0,0,0
+02/04/2022,15:00,Chelsea,Brentford,1,4,A,0,0,D,A Madley,21,17,8,6,11,7,12,7,0,0,0,0
+02/04/2022,15:00,Leeds,Southampton,1,1,D,1,0,H,A Taylor,12,14,3,6,14,7,4,7,1,1,0,0
+02/04/2022,15:00,Wolves,Aston Villa,2,1,H,2,0,H,D England,11,15,5,5,15,8,4,9,4,3,0,0
+02/04/2022,17:30,Man United,Leicester,1,1,D,0,0,D,A Marriner,11,11,5,3,13,6,6,5,2,2,0,0
+03/04/2022,14:00,West Ham,Everton,2,1,H,1,0,H,M Oliver,11,13,5,2,9,12,2,4,1,1,0,1
+03/04/2022,16:30,Tottenham,Newcastle,5,1,H,1,1,D,M Atkinson,19,8,6,1,10,7,2,3,2,3,0,0
+04/04/2022,20:00,Crystal Palace,Arsenal,3,0,H,2,0,H,P Tierney,6,12,5,3,11,15,0,2,0,2,0,0
+06/04/2022,19:30,Burnley,Everton,3,2,H,1,2,A,M Dean,13,16,4,4,11,16,9,6,2,2,0,0
+08/04/2022,20:00,Newcastle,Wolves,1,0,H,0,0,D,P Bankes,12,5,4,2,6,13,1,2,1,1,0,0
+09/04/2022,12:30,Everton,Man United,1,0,H,1,0,H,J Moss,7,12,3,4,4,10,5,7,2,2,0,0
+09/04/2022,15:00,Arsenal,Brighton,1,2,A,0,1,A,D Coote,20,8,4,3,12,19,11,2,3,4,0,0
+09/04/2022,15:00,Southampton,Chelsea,0,6,A,0,4,A,K Friend,4,24,1,14,11,10,3,3,1,0,0,0
+09/04/2022,15:00,Watford,Leeds,0,3,A,0,1,A,A Marriner,8,10,1,5,8,12,3,8,2,0,0,0
+09/04/2022,17:30,Aston Villa,Tottenham,0,4,A,0,1,A,G Scott,9,11,8,5,12,14,9,3,2,3,0,0
+10/04/2022,14:00,Brentford,West Ham,2,0,H,0,0,D,M Atkinson,15,5,7,1,2,6,4,6,0,1,0,0
+10/04/2022,14:00,Leicester,Crystal Palace,2,1,H,2,0,H,R Jones,12,11,3,3,11,12,3,4,1,1,0,0
+10/04/2022,14:00,Norwich,Burnley,2,0,H,1,0,H,M Oliver,17,18,6,4,12,10,6,7,1,1,0,0
+10/04/2022,16:30,Man City,Liverpool,2,2,D,2,1,H,A Taylor,11,6,5,4,9,11,4,1,1,4,0,0
+16/04/2022,12:30,Tottenham,Brighton,0,1,A,0,0,D,C Pawson,5,12,0,5,14,10,4,4,3,3,0,0
+16/04/2022,15:00,Man United,Norwich,3,2,H,2,1,H,A Madley,20,15,9,4,7,6,6,7,0,0,0,0
+16/04/2022,15:00,Southampton,Arsenal,1,0,H,1,0,H,P Bankes,9,23,3,6,6,6,6,8,2,1,0,0
+16/04/2022,15:00,Watford,Brentford,1,2,A,0,1,A,S Hooper,17,16,4,5,11,9,6,5,2,1,0,0
+17/04/2022,14:15,Newcastle,Leicester,2,1,H,1,1,D,J Gillett,16,8,7,2,10,10,3,5,2,2,0,0
+17/04/2022,14:15,West Ham,Burnley,1,1,D,0,1,A,P Tierney,21,9,8,1,9,10,13,4,2,2,0,0
+19/04/2022,20:00,Liverpool,Man United,4,0,H,2,0,H,M Atkinson,14,2,5,1,3,6,10,2,1,2,0,0
+20/04/2022,19:45,Chelsea,Arsenal,2,4,A,2,2,D,J Moss,11,14,2,4,7,6,6,1,3,1,0,0
+20/04/2022,19:45,Everton,Leicester,1,1,D,0,1,A,D Coote,13,11,3,3,8,17,5,4,3,1,0,0
+20/04/2022,19:45,Newcastle,Crystal Palace,1,0,H,1,0,H,T Harrington,13,10,4,2,12,12,2,5,1,1,0,0
+20/04/2022,20:00,Man City,Brighton,3,0,H,0,0,D,M Dean,17,2,5,1,12,7,7,4,0,3,0,0
+21/04/2022,19:45,Burnley,Southampton,2,0,H,2,0,H,S Attwell,16,11,6,3,7,7,10,10,2,2,0,0
+23/04/2022,12:30,Arsenal,Man United,3,1,H,2,1,H,C Pawson,14,14,7,5,9,12,1,7,3,4,0,0
+23/04/2022,15:00,Leicester,Aston Villa,0,0,D,0,0,D,A Madley,5,11,2,3,15,16,7,6,3,2,0,0
+23/04/2022,15:00,Man City,Watford,5,1,H,3,1,H,K Friend,21,5,8,2,9,7,11,4,1,0,0,0
+23/04/2022,15:00,Norwich,Newcastle,0,3,A,0,2,A,C Kavanagh,5,13,2,7,11,10,2,3,0,2,0,0
+23/04/2022,17:30,Brentford,Tottenham,0,0,D,0,0,D,M Atkinson,15,9,2,0,8,7,12,8,2,1,0,0
+24/04/2022,14:00,Brighton,Southampton,2,2,D,2,1,H,R Jones,8,18,5,5,12,7,6,6,1,0,0,0
+24/04/2022,14:00,Burnley,Wolves,1,0,H,0,0,D,A Taylor,14,10,5,4,8,7,3,6,3,1,0,0
+24/04/2022,14:00,Chelsea,West Ham,1,0,H,0,0,D,M Oliver,26,6,5,2,11,9,3,1,1,0,0,1
+24/04/2022,16:30,Liverpool,Everton,2,0,H,0,0,D,S Attwell,18,9,4,1,8,8,13,1,2,5,0,0
+25/04/2022,20:00,Crystal Palace,Leeds,0,0,D,0,0,D,D England,17,9,7,2,12,13,6,3,2,2,0,0
+28/04/2022,19:45,Man United,Chelsea,1,1,D,0,0,D,M Dean,6,21,3,6,9,12,2,9,0,1,0,0
+30/04/2022,12:30,Newcastle,Liverpool,0,1,A,0,1,A,A Marriner,4,24,2,10,11,11,0,6,1,3,0,0
+30/04/2022,15:00,Aston Villa,Norwich,2,0,H,1,0,H,J Brooks,21,9,6,3,16,8,2,3,4,1,0,0
+30/04/2022,15:00,Southampton,Crystal Palace,1,2,A,1,0,H,J Gillett,8,14,3,5,13,11,6,7,1,3,0,0
+30/04/2022,15:00,Watford,Burnley,1,2,A,1,0,H,C Pawson,13,17,1,6,13,9,5,6,1,2,0,0
+30/04/2022,15:00,Wolves,Brighton,0,3,A,0,1,A,S Hooper,11,17,1,9,6,4,7,3,2,1,0,0
+30/04/2022,17:30,Leeds,Man City,0,4,A,0,1,A,P Tierney,7,19,2,6,13,3,3,6,1,2,0,0
+01/05/2022,14:00,Everton,Chelsea,1,0,H,0,0,D,K Friend,9,17,4,5,9,12,3,8,3,5,0,0
+01/05/2022,14:00,Tottenham,Leicester,3,1,H,1,0,H,J Moss,13,6,7,2,13,8,7,3,2,3,0,0
+01/05/2022,16:30,West Ham,Arsenal,1,2,A,1,1,D,M Dean,8,13,3,7,8,9,3,7,2,2,0,0
