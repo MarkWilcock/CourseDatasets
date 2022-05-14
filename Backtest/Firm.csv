@@ -1,28 +1,28 @@
-BookId,Division,Cluster,Desk,Book,Volcker,Region
-1,Global Equities,Equity Derivatives,Equity Options,Equity Options - A,In,US
-2,Global Equities,Equity Derivatives,Equity Options,Equity Options - B,Out,EMEA
-3,Global Equities,Equity Derivatives,Equity Options,Equity Options - C,In,Asia
-4,Global Equities,Equity Derivatives,Equity Swaps,Equity Swaps - A,Out,US
-5,Global Equities,Equity Derivatives,Equity Swaps,Equity Swaps - B,In,EMEA
-6,Global Equities,Equity Derivatives,Equity Swaps,Equity Swaps - C,Out,Asia
-7,Global Equities,Equity Derivatives,Delta-One,Market Access,In,US
-8,Global Equities,Equity Derivatives,Delta-One,ETF Trading,Out,EMEA
-9,Global Equities,Equity Derivatives,Delta-One,Index Trading,In,Asia
-10,Global Equities,Cash Equities,Electronic Trading,Electronic Trading - X,Out,US
-11,Global Equities,Cash Equities,Electronic Trading,Electronic Trading - Y,In,EMEA
-12,Global Equities,Cash Equities,Electronic Trading,Electronic Trading - Z,Out,Asia
-13,Global Equities,Cash Equities,Systematic Trading,Systematic Trading - Alpha,In,US
-14,Global Equities,Cash Equities,Systematic Trading,Systematic Trading - Gamma,Out,EMEA
-15,Global Equities,Cash Equities,Systematic Trading,Systematic Trading - Omega,In,Asia
-16,Global Equities,Cash Equities,High Frequency Trading,High Frequency Trading - Blue,Out,US
-17,Global Equities,Cash Equities,High Frequency Trading,High Frequency Trading - Green,In,EMEA
-18,Global Equities,Cash Equities,High Frequency Trading,High Frequency Trading - Red,Out,Asia
-19,Global Equities,Global Convertibles,Convertibles US,Convertibles US - Auto,In,US
-20,Global Equities,Global Convertibles,Convertibles US,Convertibles US - Oil,Out,EMEA
-21,Global Equities,Global Convertibles,Convertibles US,Convertibles US - High Tech,In,Asia
-22,Global Equities,Global Convertibles,Convertibles Asia,Convertibles Asia - Electronics,Out,US
-23,Global Equities,Global Convertibles,Convertibles Asia,Convertibles Asia - Autos,In,EMEA
-24,Global Equities,Global Convertibles,Convertibles Asia,Convertibles Asia - Finance,Out,Asia
-25,Global Equities,Global Convertibles,Convertibles Europe,Convertibles Europe - Energy,In,US
-26,Global Equities,Global Convertibles,Convertibles Europe,Convertibles Europe - Manufacturing,Out,EMEA
-27,Global Equities,Global Convertibles,Convertibles Europe,Convertibles Europe - Mergers,In,Asia
+BookId,Division,Cluster,Desk,Book,Book Code,Volcker,Region
+1,Global Equities,Equity Derivatives,Equity Options,Equity Options - A,EqOp A,In,US
+2,Global Equities,Equity Derivatives,Equity Options,Equity Options - B,EqOp B,Out,EMEA
+3,Global Equities,Equity Derivatives,Equity Options,Equity Options - C,EqOp C,In,Asia
+4,Global Equities,Equity Derivatives,Equity Swaps,Equity Swaps - A,EqSwap A,Out,US
+5,Global Equities,Equity Derivatives,Equity Swaps,Equity Swaps - B,EqSwap B,In,EMEA
+6,Global Equities,Equity Derivatives,Equity Swaps,Equity Swaps - C,EqSwap C,Out,Asia
+7,Global Equities,Equity Derivatives,Delta-One,Market Access,Market Access,In,US
+8,Global Equities,Equity Derivatives,Delta-One,ETF Trading,ETF Trading,Out,EMEA
+9,Global Equities,Equity Derivatives,Delta-One,Index Trading,Index Trading,In,Asia
+10,Global Equities,Cash Equities,Electronic Trading,Electronic Trading - X,Elec X,Out,US
+11,Global Equities,Cash Equities,Electronic Trading,Electronic Trading - Y,Elec Y,In,EMEA
+12,Global Equities,Cash Equities,Electronic Trading,Electronic Trading - Z,Elec Z,Out,Asia
+13,Global Equities,Cash Equities,Systematic Trading,Systematic Trading - Alpha,Sys Alpha,In,US
+14,Global Equities,Cash Equities,Systematic Trading,Systematic Trading - Gamma,Sys Gamma,Out,EMEA
+15,Global Equities,Cash Equities,Systematic Trading,Systematic Trading - Omega,Sys Omega,In,Asia
+16,Global Equities,Cash Equities,High Frequency Trading,High Frequency Trading - Blue,HFT Blue,Out,US
+17,Global Equities,Cash Equities,High Frequency Trading,High Frequency Trading - Green,HFT Green,In,EMEA
+18,Global Equities,Cash Equities,High Frequency Trading,High Frequency Trading - Red,HFT Red,Out,Asia
+19,Global Equities,Global Convertibles,Convertibles US,Convertibles US - Auto,US Auto,In,US
+20,Global Equities,Global Convertibles,Convertibles US,Convertibles US - Oil,US Oil,Out,EMEA
+21,Global Equities,Global Convertibles,Convertibles US,Convertibles US - High Tech,US Tech,In,Asia
+22,Global Equities,Global Convertibles,Convertibles Asia,Convertibles Asia - Electronics,Asia Elec,Out,US
+23,Global Equities,Global Convertibles,Convertibles Asia,Convertibles Asia - Autos,Asia Autos,In,EMEA
+24,Global Equities,Global Convertibles,Convertibles Asia,Convertibles Asia - Finance,Asia Finance,Out,Asia
+25,Global Equities,Global Convertibles,Convertibles Europe,Convertibles Europe - Energy,EU Energy,In,US
+26,Global Equities,Global Convertibles,Convertibles Europe,Convertibles Europe - Manufacturing,EU Manu,Out,EMEA
+27,Global Equities,Global Convertibles,Convertibles Europe,Convertibles Europe - Mergers,EU Mergers,In,Asia
