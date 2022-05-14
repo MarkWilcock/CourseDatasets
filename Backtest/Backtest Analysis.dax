@@ -186,8 +186,8 @@ ADDCOLUMNS (
 -- We can define several measures in a single query
 -- Use {}, the table constructor, or the ROW() function, to return several measures in a query
 DEFINE
-    MEASURE 'Calculations'[Max P&L] =  MAX (Fact[P&L] )
-    MEASURE 'Calculations'[Min P&L] =  MIN (Fact[P&L]  )
+    MEASURE 'Calculations'[Max P&L] =  MAX (Fact[Profit] )
+    MEASURE 'Calculations'[Min P&L] =  MIN (Fact[Profit]  )
 EVALUATE
 {
     [Min P&L],
@@ -197,8 +197,8 @@ EVALUATE
 
 --  we can return several recordsets in the same batch  by using several EVALUATE statements
 DEFINE
-    MEASURE 'Calculations'[Max P&L] =  MAX (Fact[P&L] )
-    MEASURE 'Calculations'[Min P&L] =  MIN (Fact[P&L]  )
+    MEASURE 'Calculations'[Max P&L] =  MAX (Fact[Profit] )
+    MEASURE 'Calculations'[Min P&L] =  MIN (Fact[Profit]  )
 EVALUATE
 {
     [Min P&L],
@@ -234,7 +234,7 @@ DEFINE MEASURE 'Calculations'[VolckerInPL] =
 CALCULATE([P&L], Firm[Volcker] = "In")
 EVALUATE
 	SUMMARIZECOLUMNS(
-	'Calendar'[Year],
+	'Dates'[Year],
 	"P&L", [P&L],
 	"Volcker In P&L", [VolckerInPL]
 	)
