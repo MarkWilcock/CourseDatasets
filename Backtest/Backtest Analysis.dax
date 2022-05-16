@@ -1,12 +1,16 @@
-﻿-- DAX Studio Backtest Lab
+﻿/*
+DAX Studio Backtest Lab
 
--- *** Set up ***
--- Launch Power BI Desktop and open Backtest.pbix
--- Connect to the Backtest.pbix
+*** Set up ***
+Launch Power BI Desktop and open Backtest.pbix
+Connect to the Backtest.pbix
 
--- All statements have an EVALUATE and all return a table
+All statements have an EVALUATE and all return a table
 
--- Note that table names can be wrapped  in a single quote - necessary if table contains a space
+Note that table names can be wrapped  in a single quote - necessary if table contains a space
+
+*/
+
 -- List all rows and columns of the Firm table
 EVALUATE Firm
 
@@ -16,17 +20,17 @@ EVALUATE Firm
 -- List the unique values in the 'Product'[Product Type] column
 EVALUATE VALUES(Firm[Cluster])
 
--- CALCULATETABLE returns a tables with filters applied
+-- CALCULATETABLE returns a table with filters applied
 -- We can simulate the filter context on a visual using the filter arguments 
 
--- List books in the Cash Equities cluster
+-- List books in the Cash Equities cluster only
 EVALUATE
 CALCULATETABLE (
     Firm,
     Firm[Cluster] = "Cash Equities"
 )
 
--- An alternative would be to use FILTER and && the filter conditions
+-- An alternative would be to use FILTER() and the filter conditions
 EVALUATE
 FILTER (
     Firm,
@@ -34,6 +38,7 @@ FILTER (
 )
 
 -- ORDER BY is an optional clause
+-- CALCULATETABLE has two filter arguments
 EVALUATE
 CALCULATETABLE (
     VALUES(Firm[Desk]),
@@ -52,7 +57,7 @@ EVALUATE { [P&L], [Lower VaR] }
 EVALUATE ROW("Total P&L",  [P&L], "Total Lower Value at Risk", [Lower VaR] )
 
 -- The CONCATENATEX() is a useful function to see what is happening in a DAX table function, such as VALUES(), 
--- when it is used internally to other DAX functions in an expresssion
+-- when used internally to other DAX functions in a measure
 -- It loops through the rows of a column of the table and concatenates them into a single string 
 
 -- Show all product names is a single string separated by a comma
@@ -62,11 +67,14 @@ EVALUATE  {CONCATENATEX(VALUES(Firm[Cluster]), [Cluster], ", ")}
 
 
 -- SUMMARIZECOLUMNS is a very useful function when we want to return a table of several columns
--- List the unique combinations of [Product Type] and [Product Category] in the data of the Product table
+-- VALUES() returns a table of one column only
+-- It is used extensively by Power BI Desktop under the covers
+
+-- List the unique combinations of [Year] and [Cluster] in the data of the Product table
 EVALUATE
 SUMMARIZECOLUMNS (
     Firm[Cluster],
-    Firm[Desk]
+    Dates[Year]
 )
 
 -- We can add measures by including them as name / expression parameters within SUMMARIZECOLUMNS() 
@@ -74,63 +82,96 @@ SUMMARIZECOLUMNS (
 EVALUATE
 SUMMARIZECOLUMNS (
     Firm[Cluster],
-    Firm[Desk],
+    Dates[Year],
     "Total P&L", [P&L]
 )	
 
--- This is better
+-- This is considered better style and yields better pewrformance
 EVALUATE
 ADDCOLUMNS (
     SUMMARIZECOLUMNS (
         Firm[Cluster],
-        Firm[Desk]
+    	Dates[Year]
     ),
     "Total P&L", [P&L]
 )
 -- We can also use variables to make the previous statement more readable
 -- Note: This is the first use of the DEFINE .. EVALUATE syntax is this example script
 
--- simplest example of DEFINE ... EVALUATE
-DEFINE VAR DeskList =
+DEFINE VAR ClusterYear =
         SUMMARIZECOLUMNS (
             Firm[Cluster],
-            Firm[Desk]
+	    	Dates[Year]
         )
 EVALUATE
-DeskList
+ClusterYear
     
-DEFINE
-    VAR DeskList =
+DEFINE VAR ClusterYear =
         SUMMARIZECOLUMNS (
             Firm[Cluster],
-            Firm[Desk]
+	    	Dates[Year]
         )
 EVALUATE
 ADDCOLUMNS (
-    DeskList,
+    ClusterYear,
     "Total P&L", [P&L]
 )
 
 /*
+Define and use a measure.  The measure exists for the duration of the query only
+
+We may want to define a measure within the DAX query if this measure is not already defined in the model
+We often do this as we test out a new measure
+DEFINE Syntax for a measure must be DEFINE MEASURE table[measure].  
+Note that table is required although it does not matter much which table.  Use the dummy Calculations table if it exust in the model
+*/
+DEFINE
+    MEASURE 'Calculations'[Entire P&L] =
+        CALCULATE (
+            [P&L],
+            ALLSELECTED ( Firm[Cluster] )
+        )
+    MEASURE 'Calculations'[Other P&L] =
+        CALCULATE (
+            [P&L],
+            Firm[Region]
+                IN {
+                "EMEA",
+                "Asia"
+            }
+        )
+
 EVALUATE
 SUMMARIZECOLUMNS (
     Firm[Cluster],
     "P&L", [P&L],
-    "Cash Eq Only", [P&L Cash Equities Only],
-    "Cash Eq Always", [P&L Cash Equities Always]
+    "Other P&L", [Other P&L],
+    "Entire P&L", [Entire P&L]
 )
-*/
 
+-- TREATAS() is a very useful function and used extensively by Power BI Desktop
+-- It treats the first argument as the the column in the second argument
+-- It is used to apply a filter to the column in the secind argument 
+DEFINE
+    MEASURE 'Calculations'[Other P&L] =
+        CALCULATE (
+            [P&L],
+            TREATAS({"EMEA", "Asia"}, Firm[Region])
+        )
 
-EVALUATE TREATAS({2018, 2019}, 'Calendar'[Year])
-
-
-DEFINE MEASURE 'Calculations'[pl_all] =
-        CALCULATE ( [P&L], ALLSELECTED ( Firm[Cluster] ) )
 EVALUATE
-SUMMARIZECOLUMNS ( Firm[Cluster], "P&L", [P&L], "P&L All Cluster", [pl_all] )
+SUMMARIZECOLUMNS (
+    Firm[Cluster],
+    "P&L", [P&L],
+    "Other P&L", [Other P&L]
+)
 
--- SUMMARIZE is occasionally a necessary backup in a few edge cases when SUMMARIZECOLUMNS won't play ball.  We can only use columns from the same table
+
+/*
+SUMMARIZE is occasionally a necessary backup in a few edge cases when SUMMARIZECOLUMNS won't play ball.
+For example, SUMMARIZECOLUMNS cannot be used to create the table inside SUMX()
+SUMMARIZE can only use columns from the same table
+*/
 EVALUATE
 SUMMARIZE (
     Firm,
@@ -139,46 +180,22 @@ SUMMARIZE (
 )
 
 
+/*
+This shows the difference between VALUES() and ALL()
+VALUES() respects the filter context
+ALL() ignores the filter context
 
--- This shows the difference between VALUES() and ALL()
--- VALUES() respects the filter context
--- ALL() ignores the filter context
-EVALUATE
-    VALUES ( Firm[Desk] )
-
-EVALUATE
-    VALUES ( Firm[Book] )
-
+Note:
+VALUES() creates a row context to itertae through the values of firm desk
+Row context iterates but does not filter
+CALCULATE() is necessary to turn the row context into a filter context - so that the DAX inside the calculate respects the current row (Desk) 
+*/
 
 EVALUATE
 ADDCOLUMNS (
     VALUES ( Firm[Desk] ),
     "Books", CALCULATE ( CONCATENATEX ( VALUES ( Firm[Book] ), Firm[Book], ", " ) ),
     "All Books", CALCULATE ( CONCATENATEX ( ALL ( Firm[Book] ), Firm[Book], ", " ) )
-)
--- ADVANCED: Note the CALCULATE() is necessary to turn the row context into a filter context - without it it does not work
--- Otherwise it would use row context
-
-
--- We may want to define a measure within the DAX query if this measure is not already defined in the model
--- We often do this as we test out a new measure
--- DEFINE Syntax for a measure must be DEFINE MEASURE table[measure].  
--- Note that table is required although it does not matter much which table
-
-DEFINE
-    MEASURE 'Calculations'[SomeBooks] =
-        CALCULATE (
-            CONCATENATEX (
-                VALUES ( Firm[Book] ),
-                Firm[Book],
-                ", "
-            )
-        )
-
-EVALUATE
-ADDCOLUMNS (
-    VALUES ( Firm[Desk] ),
-    "Books", [SomeBooks]
 )
 
 
@@ -208,28 +225,8 @@ EVALUATE ROW("Minimum", [Min P&L], "Maximum", [Max P&L])
 
 
 
--- one way to filter is to use TREATAS with a literal table of the required values 
-EVALUATE Firm
-EVALUATE {"Equity Options", "Delta-One" }
-
-EVALUATE
-SUMMARIZECOLUMNS(
-	Firm[Book],
-	TREATAS({"Equity Options", "Delta-One" }, Firm[Desk]),
-	"Total P&L", [P&L]
-)
-
-
--- an alternative way to filter is to use FILTER function
-EVALUATE
-SUMMARIZECOLUMNS(
-	Firm[Book],
-	FILTER(
-	VALUES(Firm[Desk]), Firm[Desk] IN {"Equity Options", "Delta-One" }),
-	"Total P&L", [P&L]
-)
-
-
+-- This measure replaces any existing filter on the Firm[Volcker] column with the filter Firm[Volcker] = "In"
+-- Since there is no existing filter applied to Firm[Volcker] in the query, this has the effect of adding an extra filter condition
 DEFINE MEASURE 'Calculations'[VolckerInPL] =
 CALCULATE([P&L], Firm[Volcker] = "In")
 EVALUATE
@@ -239,8 +236,9 @@ EVALUATE
 	"Volcker In P&L", [VolckerInPL]
 	)
 
-
--- this does a replace of all desks with the Delta-one value
+/*
+Since the Desk column is in the column list of SUMMARIZECOLUMNS, the [Delta-OneDeskPL] measure  will replace any filter with Firm[Desk] = "Delta-One" 
+*/
 DEFINE
     MEASURE 'Calculations'[Delta-OneDeskPL] =
         CALCULATE ( [P&L], Firm[Desk] = "Delta-One" )
@@ -265,5 +263,63 @@ SUMMARIZECOLUMNS (
 )
 
 
--- And now for somethng completely different
+-- TREATAS() is a very useful function and used extensively by Power BI Desktop
+
+-- one way to filter is to use TREATAS with a literal table of the required values 
+
+EVALUATE
+SUMMARIZECOLUMNS(
+	Firm[Book],
+	TREATAS({"Equity Options", "Delta-One" }, Firm[Desk]),
+	"Total P&L", [P&L]
+)
+
+
+-- an alternative way to filter is to use FILTER function
+EVALUATE
+SUMMARIZECOLUMNS(
+	Firm[Book],
+	FILTER(
+	VALUES(Firm[Desk]), Firm[Desk] IN {"Equity Options", "Delta-One" }),
+	"Total P&L", [P&L]
+)
+
+-- And now for something completely different
 select * from $SYSTEM.MDSCHEMA_MEASURES
+
+
+---  END OF LESSON
+
+/*
+Old stuff below here - please ignore 
+
+
+EVALUATE
+SUMMARIZECOLUMNS (
+    Firm[Cluster],
+    "P&L", [P&L],
+    "Cash Eq Only", [P&L Cash Equities Only],
+    "Cash Eq Always", [P&L Cash Equities Always]
+)
+
+
+
+DEFINE
+    MEASURE 'Calculations'[SomeBooks] =
+        CALCULATE (
+            CONCATENATEX (
+                VALUES ( Firm[Book] ),
+                Firm[Book],
+                ", "
+            )
+        )
+
+EVALUATE
+ADDCOLUMNS (
+    VALUES ( Firm[Desk] ),
+    "Books", [SomeBooks]
+)
+
+
+*/
+
