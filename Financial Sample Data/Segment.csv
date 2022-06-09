@@ -1,0 +1,6 @@
+Segment,Sector,Channel
+Enterprise,Big Companies,Direct
+Midmarket,Small Companies,Indirect
+Small Business,Small Companies,Indirect
+Government,Public,Direct
+Channel Partners,Big Companies,Indirect
