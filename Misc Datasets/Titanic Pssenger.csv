@@ -1,0 +1,892 @@
+﻿Passenger Id,Survival,Surname,Other Names,Title,Passenger Class,Gender,Embarked,FareBand,FamilySize,Age (bins),Age,Adult Or Child,Is Age Missing
+1,Died,Brewe,Arthur Jackson,Dr,1st,male,Cherbourg,30 - above,1,,,Not Known,Missing
+1,Survived,Fleming,Margaret,Miss,1st,female,Cherbourg,30 - above,1,,,Not Known,Missing
+1,Died,Hoyt,William Fisher,Mr,1st,male,Cherbourg,30 - above,1,,,Not Known,Missing
+1,Died,Lewy,Ervin G,Mr,1st,male,Cherbourg,20 - 30,1,,,Not Known,Missing
+1,Survived,Marechal,Pierre,Mr,1st,male,Cherbourg,20 - 30,1,,,Not Known,Missing
+1,Died,Robbins,Victor,Mr,1st,male,Cherbourg,30 - above,1,,,Not Known,Missing
+1,Died,Stewart,Albert A,Mr,1st,male,Cherbourg,20 - 30,1,,,Not Known,Missing
+1,Survived,Thorne,Gertrude Maybelle,Mrs,1st,female,Cherbourg,30 - above,1,,,Not Known,Missing
+1,Died,Baumann,John D,Mr,1st,male,Southampton,20 - 30,1,,,Not Known,Missing
+1,Survived,Bradley,George (George Arthur Brayton),Mr,1st,male,Southampton,20 - 30,1,,,Not Known,Missing
+1,Died,Cairns,Alexander,Mr,1st,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Died,Clifford,George Quincy,Mr,1st,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Died,Farthing,John,Mr,1st,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Died,Fry,Richard,Mr,1st,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Harrington,Charles H,Mr,1st,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Survived,Hawksford,Walter James,Mr,1st,male,Southampton,20 - 30,1,,,Not Known,Missing
+1,Died,Klaber,Herman,Mr,1st,male,Southampton,20 - 30,1,,,Not Known,Missing
+1,Died,Parr,William Henry Marsh,Mr,1st,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Rood,Hugh Roscoe,Mr,1st,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Survived,Saalfeld,Adolphe,Mr,1st,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Died,Smith,Richard William,Mr,1st,male,Southampton,20 - 30,1,,,Not Known,Missing
+1,Died,Williams-Lambert,Fletcher Fellows,Mr,1st,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Survived,Woolner,Hugh,Mr,1st,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Survived,Goldenberg,Samuel L (Edwiga Grabowska),Mrs,1st,female,Cherbourg,30 - above,2,,,Not Known,Missing
+1,Survived,Meyer,Edgar Joseph (Leila Saks),Mrs,1st,female,Cherbourg,30 - above,2,,,Not Known,Missing
+1,Survived,Spencer,William Augustus (Marie Eugenie),Mrs,1st,female,Cherbourg,30 - above,2,,,Not Known,Missing
+1,Survived,Chibnall,(Edith Martha Bowerman),Mrs,1st,female,Southampton,30 - above,2,,,Not Known,Missing
+1,Survived,Frauenthal,Henry William (Clara Heinsheimer),Mrs,1st,female,Southampton,30 - above,2,,,Not Known,Missing
+1,Survived,Kenyon,Frederick R (Marion),Mrs,1st,female,Southampton,30 - above,2,,,Not Known,Missing
+1,Survived,Taylor,Elmer Zebley (Juliet Cummins Wright),Mrs,1st,female,Southampton,30 - above,2,,,Not Known,Missing
+1,Survived,Padro y Manent,Julian,Mr,2nd,male,Cherbourg,10 - 20,1,,,Not Known,Missing
+1,Died,Pernot,Rene,Mr,2nd,male,Cherbourg,10 - 20,1,,,Not Known,Missing
+1,Survived,Keane,Nora A,Miss,2nd,female,Queenstown,10 - 20,1,,,Not Known,Missing
+1,Died,Campbell,William,Mr,2nd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Cunningham,Alfred Fleming,Mr,2nd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Frost,Anthony Wood Archie,Mr,2nd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Knight,Robert J,Mr,2nd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Survived,Leitch,Jessie Wills,Miss,2nd,female,Southampton,30 - above,1,,,Not Known,Missing
+1,Died,Parkes,Francis Frank,Mr,2nd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Watson,Ennis Hastings,Mr,2nd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Survived,Williams,Charles Eugene,Mr,2nd,male,Southampton,10 - 20,1,,,Not Known,Missing
+1,Died,Boulos,Hanna,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Doharr,Tannous,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Elias,Dibo,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Emir,Farred Chehab,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Gheorgheff,Stanio,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Kassem,Fared,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Kraeff,Theodor,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Lahoud,Sarkis,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Survived,Mamee,Hanna,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Survived,Masselmani,Fatima,Mrs,3rd,female,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Survived,Moussa,(Mantoura Boulos),Mrs,3rd,female,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Paulner,Uscher,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Razi,Raihed,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Saad,Amin,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Toufik,Nakli,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Yousif,Wazli,Mr,3rd,male,Cherbourg,0 - 10,1,,,Not Known,Missing
+1,Died,Yousseff,Gerious,Mr,3rd,male,Cherbourg,10 - 20,1,,,Not Known,Missing
+1,Died,Flynn,James,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Flynn,John,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,Glynn,Mary Agatha,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Hart,Henry,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,Healy,Hanora Nora,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Henry,Delia,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Horgan,John,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,Jermyn,Annie,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Keane,Andrew Andy,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,Kelly,Anna Katherine Annie Kate,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,Kelly,Mary,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Kilgannon,Thomas J,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,Madigan,Margaret Maggie,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,Mannion,Margareth,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,McCormack,Thomas Joseph,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,McDermott,Brigdet Delia,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,McEvoy,Michael,Mr,3rd,male,Queenstown,10 - 20,1,,,Not Known,Missing
+1,Survived,McGovern,Mary,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,McMahon,Martin,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Mernagh,Robert,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,Mockler,Helen Mary Ellie,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Moran,James,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Morrow,Thomas Rowan,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,Mullens,Katherine Katie,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,O'Brien,Timothy,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,O'Connell,Patrick D,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,O'Connor,Maurice,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,O'Driscoll,Bridget,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,O'Dwyer,Ellen Nellie,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Survived,O'Leary,Hanora Norah,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,O'Sullivan,Bridget Mary,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Peters,Katie,Miss,3rd,female,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Ryan,Patrick,Mr,3rd,male,Queenstown,20 - 30,1,,,Not Known,Missing
+1,Died,Sadlier,Matthew,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Scanlan,James,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Smith,Thomas,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Tobin,Roger,Mr,3rd,male,Queenstown,0 - 10,1,,,Not Known,Missing
+1,Died,Denkoff,Mitto,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Survived,Foo,Choong,Mr,3rd,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Died,Garfirth,John,Mr,3rd,male,Southampton,10 - 20,1,,,Not Known,Missing
+1,Died,Harknett,Alice Phoebe,Miss,3rd,female,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Ivanoff,Kanio,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Jardin,Jose Neto,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Survived,Johannesen-Bratthammer,Bernt,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Keefe,Arthur,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Laleff,Kristo,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Survived,Lam,Ali,Mr,3rd,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Died,Lam,Len,Mr,3rd,male,Southampton,30 - above,1,,,Not Known,Missing
+1,Died,Maisner,Simon,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Meanwell,(Marion Ogden),Miss,3rd,female,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Meek,Thomas (Annie Louise Rowley),Mrs,3rd,female,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Mitkoff,Mito,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Moore,Leonard Charles,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Survived,Moss,Albert Johan,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Moutal,Rahamin Haim,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Murdlin,Joseph,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Nankoff,Minko,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Nenkoff,Christo,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Olsen,Ole Martin,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Peduzzi,Joseph,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Petroff,Pastcho (Pentcho),Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Plotcharsky,Vasil,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Radeff,Alexander,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Reed,James George,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Risien,Samuel Beard,Mr,3rd,male,Southampton,10 - 20,1,,,Not Known,Missing
+1,Died,Rogers,William John,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Rommetvedt,Knud Paust,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Sdycoff,Todor,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Shellard,Frederick William,Mr,3rd,male,Southampton,10 - 20,1,,,Not Known,Missing
+1,Died,Shorney,Charles Joseph,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Simmons,John,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Sirota,Maurice,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Slabenoff,Petco,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Slocovski,Selman Francis,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Smiljanic,Mile,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Staneff,Ivan,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Todoroff,Lalio,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,van Melkebeke,Philemon,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Webber,James,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Willey,Edward,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Williams,Howard Hugh Harry,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Wiseman,Phillippe,Mr,3rd,male,Southampton,0 - 10,1,,,Not Known,Missing
+1,Died,Caram,Joseph (Maria Elias),Mrs,3rd,female,Cherbourg,10 - 20,2,,,Not Known,Missing
+1,Died,Zabour,Thamine,Miss,3rd,female,Cherbourg,10 - 20,2,,,Not Known,Missing
+1,Died,Kiernan,Philip,Mr,3rd,male,Queenstown,0 - 10,2,,,Not Known,Missing
+1,Died,Lennon,Denis,Mr,3rd,male,Queenstown,10 - 20,2,,,Not Known,Missing
+1,Survived,Moran,Bertha,Miss,3rd,female,Queenstown,20 - 30,2,,,Not Known,Missing
+1,Died,Moran,Daniel J,Mr,3rd,male,Queenstown,20 - 30,2,,,Not Known,Missing
+1,Survived,Murphy,Katherine Kate,Miss,3rd,female,Queenstown,10 - 20,2,,,Not Known,Missing
+1,Survived,Murphy,Margaret Jane,Miss,3rd,female,Queenstown,10 - 20,2,,,Not Known,Missing
+1,Died,O'Brien,Thomas,Mr,3rd,male,Queenstown,10 - 20,2,,,Not Known,Missing
+1,Survived,O'Brien,Thomas (Johanna Hannah Godfrey),Mrs,3rd,female,Queenstown,10 - 20,2,,,Not Known,Missing
+1,Survived,Davison,Thomas Henry (Mary E Finck),Mrs,3rd,female,Southampton,10 - 20,2,,,Not Known,Missing
+1,Died,Hagland,Ingvald Olai Olsen,Mr,3rd,male,Southampton,10 - 20,2,,,Not Known,Missing
+1,Died,Hagland,Konrad Mathias Reiersen,Mr,3rd,male,Southampton,10 - 20,2,,,Not Known,Missing
+1,Died,Thorneycroft,Percival,Mr,3rd,male,Southampton,10 - 20,2,,,Not Known,Missing
+1,Survived,Thorneycroft,Percival (Florence Kate White),Mrs,3rd,female,Southampton,10 - 20,2,,,Not Known,Missing
+1,Died,Boulos,Joseph (Sultana),Mrs,3rd,female,Cherbourg,10 - 20,3,,,Not Known,Missing
+1,Survived,Moubarek,Gerios,Master,3rd,male,Cherbourg,10 - 20,3,,,Not Known,Missing
+1,Survived,Moubarek,Halim Gonios (William George),Master,3rd,male,Cherbourg,10 - 20,3,,,Not Known,Missing
+1,Survived,Peter,Anna,Miss,3rd,female,Cherbourg,20 - 30,3,,,Not Known,Missing
+1,Survived,Peter,Catherine (Catherine Rizk),Mrs,3rd,female,Cherbourg,20 - 30,3,,,Not Known,Missing
+1,Died,Samaan,Youssef,Mr,3rd,male,Cherbourg,20 - 30,3,,,Not Known,Missing
+1,Died,Bourke,Mary,Miss,3rd,female,Queenstown,0 - 10,3,,,Not Known,Missing
+1,Survived,McCoy,Agnes,Miss,3rd,female,Queenstown,20 - 30,3,,,Not Known,Missing
+1,Survived,McCoy,Bernard,Mr,3rd,male,Queenstown,20 - 30,3,,,Not Known,Missing
+1,Died,Johnston,Andrew G,Mr,3rd,male,Southampton,20 - 30,4,,,Not Known,Missing
+1,Died,Johnston,Catherine Helen Carrie,Miss,3rd,female,Southampton,20 - 30,4,,,Not Known,Missing
+1,Died,Lefebre,Henry Forbes,Master,3rd,male,Southampton,20 - 30,5,,,Not Known,Missing
+1,Died,Lefebre,Ida,Miss,3rd,female,Southampton,20 - 30,5,,,Not Known,Missing
+1,Died,Lefebre,Jeannie,Miss,3rd,female,Southampton,20 - 30,5,,,Not Known,Missing
+1,Died,Lefebre,Mathilde,Miss,3rd,female,Southampton,20 - 30,5,,,Not Known,Missing
+1,Died,Sage,Constance Gladys,Miss,3rd,female,Southampton,30 - above,11,,,Not Known,Missing
+1,Died,Sage,Dorothy Edith Dolly,Miss,3rd,female,Southampton,30 - above,11,,,Not Known,Missing
+1,Died,Sage,Douglas Bullen,Mr,3rd,male,Southampton,30 - above,11,,,Not Known,Missing
+1,Died,Sage,Frederick,Mr,3rd,male,Southampton,30 - above,11,,,Not Known,Missing
+1,Died,Sage,George John Jr,Mr,3rd,male,Southampton,30 - above,11,,,Not Known,Missing
+1,Died,Sage,Stella Anna,Miss,3rd,female,Southampton,30 - above,11,,,Not Known,Missing
+1,Died,Sage,Thomas Henry,Master,3rd,male,Southampton,30 - above,11,,,Not Known,Missing
+1,Survived,Thomas,Assad Alexander,Master,3rd,male,Cherbourg,0 - 10,2,0,0.42,Child,Present
+1,Survived,Hamalainen,Viljo,Master,2nd,male,Southampton,10 - 20,3,0,0.67,Child,Present
+1,Survived,Baclini,Eugenie,Miss,3rd,female,Cherbourg,10 - 20,4,0,0.75,Child,Present
+1,Survived,Baclini,Helene Barbara,Miss,3rd,female,Cherbourg,10 - 20,4,0,0.75,Child,Present
+1,Survived,Caldwell,Alden Gates,Master,2nd,male,Southampton,20 - 30,3,0,0.83,Child,Present
+1,Survived,Richards,George Sibley,Master,2nd,male,Southampton,10 - 20,3,0,0.83,Child,Present
+1,Survived,Allison,Hudson Trevor,Master,1st,male,Southampton,30 - above,4,0,0.92,Child,Present
+1,Survived,Mallet,Andre,Master,2nd,male,Cherbourg,30 - above,3,0,1,Child,Present
+1,Survived,Becker,Richard F,Master,2nd,male,Southampton,30 - above,4,0,1,Child,Present
+1,Survived,Nakid,Maria (Mary),Miss,3rd,female,Cherbourg,10 - 20,3,0,1,Child,Present
+1,Survived,Johnson,Eleanor Ileen,Miss,3rd,female,Southampton,10 - 20,3,0,1,Child,Present
+1,Survived,Dean,Bertram Vere,Master,3rd,male,Southampton,20 - 30,4,0,1,Child,Present
+1,Died,Panula,Eino Viljami,Master,3rd,male,Southampton,30 - above,6,0,1,Child,Present
+1,Died,Goodwin,Sidney Leonard,Master,3rd,male,Southampton,30 - above,8,0,1,Child,Present
+1,Died,Allison,Helen Loraine,Miss,1st,female,Southampton,30 - above,4,0,2,Child,Present
+1,Survived,Navratil,Edmond Roger,Master,2nd,male,Southampton,20 - 30,3,0,2,Child,Present
+1,Survived,Quick,Phyllis May,Miss,2nd,female,Southampton,20 - 30,3,0,2,Child,Present
+1,Survived,Hirvonen,Hildur E,Miss,3rd,female,Southampton,10 - 20,2,0,2,Child,Present
+1,Died,Strom,Telma Matilda,Miss,3rd,female,Southampton,10 - 20,2,0,2,Child,Present
+1,Died,Palsson,Gosta Leonard,Master,3rd,male,Southampton,20 - 30,5,0,2,Child,Present
+1,Died,Rice,Eugene,Master,3rd,male,Queenstown,20 - 30,6,0,2,Child,Present
+1,Died,Panula,Urho Abraham,Master,3rd,male,Southampton,30 - above,6,0,2,Child,Present
+1,Died,Skoog,Margit Elizabeth,Miss,3rd,female,Southampton,20 - 30,6,0,2,Child,Present
+1,Died,Andersson,Ellis Anna Maria,Miss,3rd,female,Southampton,30 - above,7,0,2,Child,Present
+1,Survived,Navratil,Michel M,Master,2nd,male,Southampton,20 - 30,3,0,3,Child,Present
+1,Survived,Richards,William Rowe,Master,2nd,male,Southampton,10 - 20,3,0,3,Child,Present
+1,Survived,Laroche,Simonne Marie Anne Andree,Miss,2nd,female,Cherbourg,30 - above,4,0,3,Child,Present
+1,Survived,Coutts,William Loch William,Master,3rd,male,Southampton,10 - 20,3,0,3,Child,Present
+1,Died,Palsson,Stina Viola,Miss,3rd,female,Southampton,20 - 30,5,0,3,Child,Present
+1,Survived,Asplund,Edvin Rojj Felix,Master,3rd,male,Southampton,30 - above,7,0,3,Child,Present
+1,Survived,Dodge,Washington,Master,1st,male,Southampton,30 - above,3,0,4,Child,Present
+1,Survived,Wells,Joan,Miss,2nd,female,Southampton,20 - 30,3,0,4,Child,Present
+1,Survived,Becker,Marion Louise,Miss,2nd,female,Southampton,30 - above,4,0,4,Child,Present
+1,Survived,Karun,Manca,Miss,3rd,female,Cherbourg,10 - 20,2,0,4,Child,Present
+1,Survived,Johnson,Harold Theodor,Master,3rd,male,Southampton,10 - 20,3,0,4,Child,Present
+1,Survived,Kink-Heilmann,Luise Gretchen,Miss,3rd,female,Southampton,20 - 30,3,0,4,Child,Present
+1,Survived,Sandstrom,Marguerite Rut,Miss,3rd,female,Southampton,10 - 20,3,0,4,Child,Present
+1,Died,Rice,Arthur,Master,3rd,male,Queenstown,20 - 30,6,0,4,Child,Present
+1,Died,Skoog,Harald,Master,3rd,male,Southampton,20 - 30,6,0,4,Child,Present
+1,Died,Andersson,Sigvard Harald Elias,Master,3rd,male,Southampton,30 - above,7,0,4,Child,Present
+1,Survived,West,Constance Mirium,Miss,2nd,female,Southampton,20 - 30,4,5,5,Child,Present
+1,Survived,Emanuel,Virginia Ethel,Miss,3rd,female,Southampton,10 - 20,1,5,5,Child,Present
+1,Survived,Baclini,Marie Catherine,Miss,3rd,female,Cherbourg,10 - 20,4,5,5,Child,Present
+1,Survived,Asplund,Lillian Gertrud,Miss,3rd,female,Southampton,30 - above,7,5,5,Child,Present
+1,Survived,Harper,Annie Jessie Nina,Miss,2nd,female,Southampton,30 - above,2,5,6,Child,Present
+1,Survived,Moor,Meier,Master,3rd,male,Southampton,10 - 20,2,5,6,Child,Present
+1,Died,Andersson,Ebba Iris Alfrida,Miss,3rd,female,Southampton,30 - above,7,5,6,Child,Present
+1,Survived,Hart,Eva Miriam,Miss,2nd,female,Southampton,20 - 30,3,5,7,Child,Present
+1,Died,Rice,Eric,Master,3rd,male,Queenstown,20 - 30,6,5,7,Child,Present
+1,Died,Panula,Juha Niilo,Master,3rd,male,Southampton,30 - above,6,5,7,Child,Present
+1,Survived,Collyer,Marjorie Lottie,Miss,2nd,female,Southampton,20 - 30,3,5,8,Child,Present
+1,Survived,Davies,John Morgan Jr,Master,2nd,male,Southampton,30 - above,3,5,8,Child,Present
+1,Died,Palsson,Torborg Danira,Miss,3rd,female,Southampton,20 - 30,5,5,8,Child,Present
+1,Died,Rice,George Hugh,Master,3rd,male,Queenstown,20 - 30,6,5,8,Child,Present
+1,Died,Boulos,Nourelain,Miss,3rd,female,Cherbourg,10 - 20,3,5,9,Child,Present
+1,Survived,Coutts,Eden Leslie Neville,Master,3rd,male,Southampton,10 - 20,3,5,9,Child,Present
+1,Survived,Goldsmith,Frank John William Frankie,Master,3rd,male,Southampton,20 - 30,3,5,9,Child,Present
+1,Died,Ford,Robina Maggie Ruby,Miss,3rd,female,Southampton,30 - above,5,5,9,Child,Present
+1,Died,Skoog,Mabel,Miss,3rd,female,Southampton,20 - 30,6,5,9,Child,Present
+1,Died,Andersson,Ingeborg Constanzia,Miss,3rd,female,Southampton,30 - above,7,5,9,Child,Present
+1,Died,Asplund,Clarence Gustaf Hugo,Master,3rd,male,Southampton,30 - above,7,5,9,Child,Present
+1,Died,Goodwin,Harold Victor,Master,3rd,male,Southampton,30 - above,8,5,9,Child,Present
+1,Died,Van Impe,Catharina,Miss,3rd,female,Southampton,20 - 30,3,10,10,Child,Present
+1,Died,Skoog,Karl Thorsten,Master,3rd,male,Southampton,20 - 30,6,10,10,Child,Present
+1,Survived,Carter,William Thornton II,Master,1st,male,Southampton,30 - above,4,10,11,Child,Present
+1,Died,Hassan,Houssein G N,Mr,3rd,male,Cherbourg,10 - 20,1,10,11,Child,Present
+1,Died,Andersson,Sigrid Elisabeth,Miss,3rd,female,Southampton,30 - above,7,10,11,Child,Present
+1,Died,Goodwin,William Frederick,Master,3rd,male,Southampton,30 - above,8,10,11,Child,Present
+1,Survived,Nicola-Yarred,Elias,Master,3rd,male,Cherbourg,10 - 20,2,10,12,Child,Present
+1,Survived,Mellinger,Madeleine Violet,Miss,2nd,female,Southampton,10 - 20,2,10,13,Child,Present
+1,Survived,Ayoub,Banoura,Miss,3rd,female,Cherbourg,0 - 10,1,10,13,Child,Present
+1,Survived,Carter,Lucile Polk,Miss,1st,female,Southampton,30 - above,4,10,14,Child,Present
+1,Survived,Nasser,Nicholas (Adele Achem),Mrs,2nd,female,Cherbourg,30 - above,2,10,14,Child,Present
+1,Died,Vestrom,Hulda Amanda Adolfina,Miss,3rd,female,Southampton,0 - 10,1,10,14,Child,Present
+1,Survived,Nicola-Yarred,Jamila,Miss,3rd,female,Cherbourg,10 - 20,2,10,14,Child,Present
+1,Died,Panula,Jaako Arnold,Mr,3rd,male,Southampton,30 - above,6,10,14,Child,Present
+1,Died,Goodwin,Charles Edward,Mr,3rd,male,Southampton,30 - above,8,10,14,Child,Present
+1,Died,Zabour,Hileni,Miss,3rd,female,Cherbourg,10 - 20,2,10,14.5,Child,Present
+1,Survived,Madill,Georgette Alexandra,Miss,1st,female,Southampton,30 - above,2,15,15,Child,Present
+1,Survived,Najib,Adele Kiamie Jane,Miss,3rd,female,Cherbourg,0 - 10,1,15,15,Child,Present
+1,Survived,McGowan,Anna Annie,Miss,3rd,female,Queenstown,0 - 10,1,15,15,Child,Present
+1,Survived,Yasbeck,Antoni (Selini Alexander),Mrs,3rd,female,Cherbourg,10 - 20,2,15,15,Child,Present
+1,Died,Elias,Tannous,Mr,3rd,male,Cherbourg,0 - 10,3,15,15,Child,Present
+1,Survived,Maioni,Roberta,Miss,1st,female,Southampton,30 - above,1,15,16,Child,Present
+1,Survived,Hippach,Jean Gertrude,Miss,1st,female,Cherbourg,30 - above,2,15,16,Child,Present
+1,Survived,Lines,Mary Conover,Miss,1st,female,Southampton,30 - above,2,15,16,Child,Present
+1,Died,Gaskell,Alfred,Mr,2nd,male,Southampton,20 - 30,1,15,16,Child,Present
+1,Died,Mudd,Thomas Charles,Mr,2nd,male,Southampton,10 - 20,1,15,16,Child,Present
+1,Survived,Carr,Helen Ellen,Miss,3rd,female,Queenstown,0 - 10,1,15,16,Child,Present
+1,Survived,Gilnagh,Katherine Katie,Miss,3rd,female,Queenstown,0 - 10,1,15,16,Child,Present
+1,Died,de Pelsmaeker,Alfons,Mr,3rd,male,Southampton,0 - 10,1,15,16,Child,Present
+1,Died,Eklund,Hans Linus,Mr,3rd,male,Southampton,0 - 10,1,15,16,Child,Present
+1,Died,Osen,Olaf Elon,Mr,3rd,male,Southampton,0 - 10,1,15,16,Child,Present
+1,Died,Rush,Alfred George John,Mr,3rd,male,Southampton,0 - 10,1,15,16,Child,Present
+1,Survived,Sunderland,Victor Francis,Mr,3rd,male,Southampton,0 - 10,1,15,16,Child,Present
+1,Died,Abbott,Rossmore Edward,Mr,3rd,male,Southampton,20 - 30,3,15,16,Child,Present
+1,Died,Vander Planke,Leo Edmondus,Mr,3rd,male,Southampton,10 - 20,3,15,16,Child,Present
+1,Died,Ford,William Neal,Mr,3rd,male,Southampton,30 - above,5,15,16,Child,Present
+1,Died,Panula,Ernesti Arvid,Mr,3rd,male,Southampton,30 - above,6,15,16,Child,Present
+1,Died,Goodwin,Lillian Amy,Miss,3rd,female,Southampton,30 - above,8,15,16,Child,Present
+1,Survived,Penasco y Castellana,Victor de Satode (Maria Josefa Perez de Soto y Vallejo),Mrs,1st,female,Cherbourg,30 - above,2,15,17,Child,Present
+1,Survived,Dick,Albert Adrian (Vera Gillespie),Mrs,1st,female,Southampton,30 - above,2,15,17,Child,Present
+1,Survived,Thayer,John Borland Jr,Mr,1st,male,Cherbourg,30 - above,3,15,17,Child,Present
+1,Survived,Lehmann,Bertha,Miss,2nd,female,Cherbourg,10 - 20,1,15,17,Child,Present
+1,Survived,Ilett,Bertha,Miss,2nd,female,Southampton,10 - 20,1,15,17,Child,Present
+1,Died,Attalah,Malake,Miss,3rd,female,Cherbourg,10 - 20,1,15,17,Child,Present
+1,Died,Calic,Jovo,Mr,3rd,male,Southampton,0 - 10,1,15,17,Child,Present
+1,Died,Calic,Petar,Mr,3rd,male,Southampton,0 - 10,1,15,17,Child,Present
+1,Died,Culumovic,Jeso,Mr,3rd,male,Southampton,0 - 10,1,15,17,Child,Present
+1,Died,Kallio,Nikolai Erland,Mr,3rd,male,Southampton,0 - 10,1,15,17,Child,Present
+1,Died,Jensen,Svend Lauritz,Mr,3rd,male,Southampton,0 - 10,2,15,17,Child,Present
+1,Died,Elias,Joseph Jr,Mr,3rd,male,Cherbourg,0 - 10,3,15,17,Child,Present
+1,Survived,Andersson,Erna Alexandra,Miss,3rd,female,Southampton,0 - 10,7,15,17,Child,Present
+1,Survived,Astor,John Jacob (Madeleine Talmadge Force),Mrs,1st,female,Cherbourg,30 - above,2,15,18,Child,Present
+1,Died,Penasco y Castellana,Victor de Satode,Mr,1st,male,Cherbourg,30 - above,2,15,18,Child,Present
+1,Survived,Taussig,Ruth,Miss,1st,female,Southampton,30 - above,3,15,18,Child,Present
+1,Survived,Ryerson,Emily Borie,Miss,1st,female,Cherbourg,30 - above,5,15,18,Child,Present
+1,Died,Andrew,Edgardo Samuel,Mr,2nd,male,Southampton,10 - 20,1,15,18,Child,Present
+1,Died,Bailey,Percy Andrew,Mr,2nd,male,Southampton,10 - 20,1,15,18,Child,Present
+1,Died,Davies,Charles Henry,Mr,2nd,male,Southampton,30 - above,1,15,18,Child,Present
+1,Died,Fahlstrom,Arne Jonas,Mr,2nd,male,Southampton,10 - 20,1,15,18,Child,Present
+1,Survived,Doling,Elsie,Miss,2nd,female,Southampton,20 - 30,2,15,18,Child,Present
+1,Survived,Silven,Lyyli Karoliina,Miss,2nd,female,Southampton,10 - 20,3,15,18,Child,Present
+1,Died,Hegarty,Hanora Nora,Miss,3rd,female,Queenstown,0 - 10,1,15,18,Child,Present
+1,Died,Allum,Owen George,Mr,3rd,male,Southampton,0 - 10,1,15,18,Child,Present
+1,Survived,Cohen,Gurshon Gus,Mr,3rd,male,Southampton,0 - 10,1,15,18,Child,Present
+1,Died,Edvardsson,Gustaf Hjalmar,Mr,3rd,male,Southampton,0 - 10,1,15,18,Child,Present
+1,Died,Fischer,Eberhard Thelander,Mr,3rd,male,Southampton,0 - 10,1,15,18,Child,Present
+1,Died,Myhrman,Pehr Fabian Oliver Malkolm,Mr,3rd,male,Southampton,0 - 10,1,15,18,Child,Present
+1,Died,Pettersson,Ellen Natalia,Miss,3rd,female,Southampton,0 - 10,1,15,18,Child,Present
+1,Survived,Sjoblom,Anna Sofia,Miss,3rd,female,Southampton,0 - 10,1,15,18,Child,Present
+1,Survived,Turja,Anna Sofia,Miss,3rd,female,Southampton,0 - 10,1,15,18,Child,Present
+1,Died,Barbara,Saiide,Miss,3rd,female,Cherbourg,10 - 20,2,15,18,Child,Present
+1,Survived,Aks,Sam (Leah Rosen),Mrs,3rd,female,Southampton,0 - 10,2,15,18,Child,Present
+1,Died,Arnold-Franchi,Josef (Josefine Franchi),Mrs,3rd,female,Southampton,10 - 20,2,15,18,Child,Present
+1,Died,Wiklund,Jakob Alfred,Mr,3rd,male,Southampton,0 - 10,2,15,18,Child,Present
+1,Died,Klasen,Klas Albin,Mr,3rd,male,Southampton,0 - 10,3,15,18,Child,Present
+1,Died,Rosblom,Viktor Richard,Mr,3rd,male,Southampton,20 - 30,3,15,18,Child,Present
+1,Died,Vander Planke,Augusta Maria,Miss,3rd,female,Southampton,10 - 20,3,15,18,Child,Present
+1,Survived,Graham,Margaret Edith,Miss,1st,female,Southampton,20 - 30,1,15,19,Adult,Present
+1,Survived,Bishop,Dickinson H (Helen Walton),Mrs,1st,female,Cherbourg,30 - above,2,15,19,Adult,Present
+1,Died,Marvin,Daniel Warner,Mr,1st,male,Southampton,30 - above,2,15,19,Adult,Present
+1,Survived,Newsom,Helen Monypeny,Miss,1st,female,Southampton,20 - 30,3,15,19,Adult,Present
+1,Died,Fortune,Charles Alexander,Mr,1st,male,Southampton,30 - above,6,15,19,Adult,Present
+1,Died,Carbines,William,Mr,2nd,male,Southampton,10 - 20,1,15,19,Adult,Present
+1,Survived,Mellors,William John,Mr,2nd,male,Southampton,10 - 20,1,15,19,Adult,Present
+1,Died,Pengelly,Frederick William,Mr,2nd,male,Southampton,10 - 20,1,15,19,Adult,Present
+1,Survived,Phillips,Kate Florence (Mrs Kate Louise Phillips Marshall),Miss,2nd,female,Southampton,20 - 30,1,15,19,Adult,Present
+1,Survived,Beane,Edward (Ethel Clarke),Mrs,2nd,female,Southampton,20 - 30,2,15,19,Adult,Present
+1,Died,Nicholls,Joseph Charles,Mr,2nd,male,Southampton,30 - above,3,15,19,Adult,Present
+1,Died,Burke,Jeremiah,Mr,3rd,male,Queenstown,0 - 10,1,15,19,Adult,Present
+1,Survived,Devaney,Margaret Delia,Miss,3rd,female,Queenstown,0 - 10,1,15,19,Adult,Present
+1,Died,Beavan,William Thomas,Mr,3rd,male,Southampton,0 - 10,1,15,19,Adult,Present
+1,Died,Cor,Liudevit,Mr,3rd,male,Southampton,0 - 10,1,15,19,Adult,Present
+1,Died,Crease,Ernest James,Mr,3rd,male,Southampton,0 - 10,1,15,19,Adult,Present
+1,Died,Dakic,Branko,Mr,3rd,male,Southampton,10 - 20,1,15,19,Adult,Present
+1,Survived,Dorking,Edward Arthur,Mr,3rd,male,Southampton,0 - 10,1,15,19,Adult,Present
+1,Died,Gustafsson,Karl Gideon,Mr,3rd,male,Southampton,0 - 10,1,15,19,Adult,Present
+1,Died,Johnson,William Cahoone Jr,Mr,3rd,male,Southampton,0 - 10,1,15,19,Adult,Present
+1,Died,Patchett,George,Mr,3rd,male,Southampton,10 - 20,1,15,19,Adult,Present
+1,Died,Petroff,Nedelio,Mr,3rd,male,Southampton,0 - 10,1,15,19,Adult,Present
+1,Died,Soholt,Peter Andreas Lauritz Andersen,Mr,3rd,male,Southampton,0 - 10,1,15,19,Adult,Present
+1,Died,Stoytcheff,Ilia,Mr,3rd,male,Southampton,0 - 10,1,15,19,Adult,Present
+1,Survived,Andersen-Jensen,Carla Christine Nielsine,Miss,3rd,female,Southampton,0 - 10,2,15,19,Adult,Present
+1,Survived,Barah,Hanna Assi,Mr,3rd,male,Cherbourg,0 - 10,1,20,20,Adult,Present
+1,Died,Betros,Tannous,Mr,3rd,male,Cherbourg,0 - 10,1,20,20,Adult,Present
+1,Died,Alhomaki,Ilmari Rudolf,Mr,3rd,male,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Andreasson,Paul Edvin,Mr,3rd,male,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Coelho,Domingos Fernandeo,Mr,3rd,male,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Gustafsson,Alfred Ossian,Mr,3rd,male,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Hampe,Leon,Mr,3rd,male,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Jensen,Hans Peder,Mr,3rd,male,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Olsvigen,Thor Anderson,Mr,3rd,male,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Oreskovic,Luka,Mr,3rd,male,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Oreskovic,Marija,Miss,3rd,female,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Saundercock,William Henry,Mr,3rd,male,Southampton,0 - 10,1,20,20,Adult,Present
+1,Died,Jussila,Katriina,Miss,3rd,female,Southampton,0 - 10,2,20,20,Adult,Present
+1,Survived,Lindqvist,Eino William,Mr,3rd,male,Southampton,0 - 10,2,20,20,Adult,Present
+1,Survived,Nakid,Sahid,Mr,3rd,male,Cherbourg,10 - 20,3,20,20,Adult,Present
+1,Died,Lovell,John Hall (Henry),Mr,3rd,male,Southampton,0 - 10,1,20,20.5,Adult,Present
+1,Survived,Longley,Gretchen Fiske,Miss,1st,female,Southampton,30 - above,1,20,21,Adult,Present
+1,Died,White,Richard Frasar,Mr,1st,male,Southampton,30 - above,2,20,21,Adult,Present
+1,Survived,Ryerson,Susan Parker Suzette,Miss,1st,female,Cherbourg,30 - above,5,20,21,Adult,Present
+1,Died,Hood,Ambrose Jr,Mr,2nd,male,Southampton,30 - above,1,20,21,Adult,Present
+1,Survived,Rugg,Emily,Miss,2nd,female,Southampton,10 - 20,1,20,21,Adult,Present
+1,Died,Giles,Frederick Edward,Mr,2nd,male,Southampton,10 - 20,2,20,21,Adult,Present
+1,Died,Hickman,Stanley George,Mr,2nd,male,Southampton,30 - above,3,20,21,Adult,Present
+1,Died,Canavan,Mary,Miss,3rd,female,Queenstown,0 - 10,1,20,21,Adult,Present
+1,Died,Charters,David,Mr,3rd,male,Queenstown,0 - 10,1,20,21,Adult,Present
+1,Died,Birkeland,Hans Martin Monsen,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Bowen,David John Dai,Mr,3rd,male,Southampton,10 - 20,1,20,21,Adult,Present
+1,Died,Cann,Ernest Charles,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Hansen,Henry Damsgaard,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Survived,Jansson,Carl Olof,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Kalvik,Johannes Halvorsen,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Nosworthy,Richard Cater,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Pasic,Jakob,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Pekoniemi,Edvard,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Survived,Salkjelsvik,Anna Kristine,Miss,3rd,female,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Sivola,Antti Wilhelm,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Stanley,Edward Roland,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Windelov,Einar,Mr,3rd,male,Southampton,0 - 10,1,20,21,Adult,Present
+1,Died,Jussila,Mari Aina,Miss,3rd,female,Southampton,0 - 10,2,20,21,Adult,Present
+1,Died,Ford,Doolina Margaret Daisy,Miss,3rd,female,Southampton,30 - above,5,20,21,Adult,Present
+1,Died,Ringhini,Sante,Mr,1st,male,Cherbourg,30 - above,1,20,22,Adult,Present
+1,Survived,Cleaver,Alice,Miss,1st,female,Southampton,30 - above,1,20,22,Adult,Present
+1,Survived,Bowerman,Elsie Edith,Miss,1st,female,Southampton,30 - above,2,20,22,Adult,Present
+1,Survived,Pears,Thomas (Edith Wearne),Mrs,1st,female,Southampton,30 - above,2,20,22,Adult,Present
+1,Survived,Frolicher,Hedwig Margaritha,Miss,1st,female,Cherbourg,30 - above,3,20,22,Adult,Present
+1,Survived,Caldwell,Albert Francis (Sylvia Mae Harbaugh),Mrs,2nd,female,Southampton,20 - 30,3,20,22,Adult,Present
+1,Survived,Laroche,Joseph (Juliette Marie Louise Lafargue),Mrs,2nd,female,Cherbourg,30 - above,4,20,22,Adult,Present
+1,Survived,Leeni,Fahim (Philip Zenni),Mr,3rd,male,Cherbourg,0 - 10,1,20,22,Adult,Present
+1,Died,Sirayanian,Orsen,Mr,3rd,male,Cherbourg,0 - 10,1,20,22,Adult,Present
+1,Survived,Connolly,Kate,Miss,3rd,female,Queenstown,0 - 10,1,20,22,Adult,Present
+1,Died,Barton,David John,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Berglund,Karl Ivar Sven,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Dahlberg,Gerda Ulrika,Miss,3rd,female,Southampton,10 - 20,1,20,22,Adult,Present
+1,Died,Dennis,Samuel,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Gilinski,Eliezer,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Johansson,Erik,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Karlsson,Nils August,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Survived,Landergren,Aurora Adelia,Miss,3rd,female,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Maenpaa,Matti Alexanteri,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Naidenoff,Penko,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Survived,Nysten,Anna Sofia,Miss,3rd,female,Southampton,0 - 10,1,20,22,Adult,Present
+1,Survived,Ohman,Velin,Miss,3rd,female,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Perkin,John Henry,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Strandberg,Ida Sofia,Miss,3rd,female,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Vovk,Janko,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Waelens,Achille,Mr,3rd,male,Southampton,0 - 10,1,20,22,Adult,Present
+1,Died,Braund,Owen Harris,Mr,3rd,male,Southampton,0 - 10,2,20,22,Adult,Present
+1,Survived,Greenfield,William Bertram,Mr,1st,male,Cherbourg,30 - above,2,20,23,Adult,Present
+1,Survived,Newell,Marjorie,Miss,1st,female,Cherbourg,30 - above,2,20,23,Adult,Present
+1,Survived,Fortune,Mabel Helen,Miss,1st,female,Southampton,30 - above,6,20,23,Adult,Present
+1,Survived,Jerwan,Amin S (Marie Marthe Thuillard),Mrs,2nd,female,Cherbourg,10 - 20,1,20,23,Adult,Present
+1,Died,Richard,Emile,Mr,2nd,male,Cherbourg,10 - 20,1,20,23,Adult,Present
+1,Died,Berriman,William John,Mr,2nd,male,Southampton,10 - 20,1,20,23,Adult,Present
+1,Died,Eitemiller,George Floyd,Mr,2nd,male,Southampton,10 - 20,1,20,23,Adult,Present
+1,Died,Pain,Alfred,Dr,2nd,male,Southampton,10 - 20,1,20,23,Adult,Present
+1,Died,Troupiansky,Moses Aaron,Mr,2nd,male,Southampton,10 - 20,1,20,23,Adult,Present
+1,Died,Hocking,Richard George,Mr,2nd,male,Southampton,10 - 20,4,20,23,Adult,Present
+1,Died,Augustsson,Albert,Mr,3rd,male,Southampton,0 - 10,1,20,23,Adult,Present
+1,Died,Heininen,Wendla Maria,Miss,3rd,female,Southampton,0 - 10,1,20,23,Adult,Present
+1,Died,Jonkoff,Lalio,Mr,3rd,male,Southampton,0 - 10,1,20,23,Adult,Present
+1,Died,Odahl,Nils Martin,Mr,3rd,male,Southampton,0 - 10,1,20,23,Adult,Present
+1,Survived,Stanley,Amy Zillah Elsie,Miss,3rd,female,Southampton,0 - 10,1,20,23,Adult,Present
+1,Died,Hanna,Mansour,Mr,3rd,male,Cherbourg,0 - 10,1,20,23.5,Adult,Present
+1,Survived,Aubart,Leontine Pauline,Mme,1st,female,Cherbourg,30 - above,1,20,24,Adult,Present
+1,Died,Giglio,Victor,Mr,1st,male,Cherbourg,30 - above,1,20,24,Adult,Present
+1,Survived,Hays,Margaret Bechstein,Miss,1st,female,Cherbourg,30 - above,1,20,24,Adult,Present
+1,Survived,Mayne,Berthe Antonine (Mrs de Villiers),Mlle,1st,female,Cherbourg,30 - above,1,20,24,Adult,Present
+1,Survived,Sagesser,Emma,Mlle,1st,female,Cherbourg,30 - above,1,20,24,Adult,Present
+1,Died,Baxter,Quigg Edmond,Mr,1st,male,Cherbourg,30 - above,2,20,24,Adult,Present
+1,Survived,Fortune,Alice Elizabeth,Miss,1st,female,Southampton,30 - above,6,20,24,Adult,Present
+1,Survived,Brown,Amelia Mildred,Miss,2nd,female,Southampton,10 - 20,1,20,24,Adult,Present
+1,Died,Gill,John William,Mr,2nd,male,Southampton,10 - 20,1,20,24,Adult,Present
+1,Died,Leyson,Robert William Norman,Mr,2nd,male,Southampton,10 - 20,1,20,24,Adult,Present
+1,Died,Yrois,Henriette (Mrs Harbeck),Miss,2nd,female,Southampton,10 - 20,1,20,24,Adult,Present
+1,Survived,Kantor,Sinai (Miriam Sternin),Mrs,2nd,female,Southampton,20 - 30,2,20,24,Adult,Present
+1,Survived,Hamalainen,William (Anna),Mrs,2nd,female,Southampton,10 - 20,3,20,24,Adult,Present
+1,Died,Hickman,Leonard Mark,Mr,2nd,male,Southampton,30 - above,3,20,24,Adult,Present
+1,Survived,Herman,Alice,Miss,2nd,female,Southampton,30 - above,4,20,24,Adult,Present
+1,Survived,Jacobsohn,Sidney Samuel (Amy Frances Christy),Mrs,2nd,female,Southampton,20 - 30,4,20,24,Adult,Present
+1,Survived,Richards,Sidney (Emily Hocking),Mrs,2nd,female,Southampton,10 - 20,6,20,24,Adult,Present
+1,Died,Ali,Ahmed,Mr,3rd,male,Southampton,0 - 10,1,20,24,Adult,Present
+1,Died,Celotti,Francesco,Mr,3rd,male,Southampton,0 - 10,1,20,24,Adult,Present
+1,Died,Coleff,Satio,Mr,3rd,male,Southampton,0 - 10,1,20,24,Adult,Present
+1,Died,Haas,Aloisia,Miss,3rd,female,Southampton,0 - 10,1,20,24,Adult,Present
+1,Died,Lievens,Rene Aime,Mr,3rd,male,Southampton,0 - 10,1,20,24,Adult,Present
+1,Survived,Madsen,Fridtjof Arne,Mr,3rd,male,Southampton,0 - 10,1,20,24,Adult,Present
+1,Died,Mineff,Ivan,Mr,3rd,male,Southampton,0 - 10,1,20,24,Adult,Present
+1,Died,Svensson,Olof,Mr,3rd,male,Southampton,0 - 10,1,20,24,Adult,Present
+1,Survived,Hakkarainen,Pekka Pietari (Elin Matilda Dolck),Mrs,3rd,female,Southampton,10 - 20,2,20,24,Adult,Present
+1,Died,McNamee,Neal,Mr,3rd,male,Southampton,10 - 20,2,20,24,Adult,Present
+1,Died,Davies,Alfred J,Mr,3rd,male,Southampton,20 - 30,3,20,24,Adult,Present
+1,Survived,Sandstrom,Hjalmar (Agnes Charlotta Bengtsson),Mrs,3rd,female,Southampton,10 - 20,3,20,24,Adult,Present
+1,Survived,Baclini,Solomon (Latifa Qurban),Mrs,3rd,female,Cherbourg,10 - 20,4,20,24,Adult,Present
+1,Died,Sawyer,Frederick Charles,Mr,3rd,male,Southampton,0 - 10,1,20,24.5,Adult,Present
+1,Survived,Bishop,Dickinson H,Mr,1st,male,Cherbourg,30 - above,2,25,25,Adult,Present
+1,Survived,Harder,George Achilles,Mr,1st,male,Cherbourg,30 - above,2,25,25,Adult,Present
+1,Died,Allison,Hudson J C (Bessie Waldo Daniels),Mrs,1st,female,Southampton,30 - above,4,25,25,Adult,Present
+1,Died,Butler,Reginald Fenton,Mr,2nd,male,Southampton,10 - 20,1,25,25,Adult,Present
+1,Died,Sedgwick,Charles Frederick Waddington,Mr,2nd,male,Southampton,10 - 20,1,25,25,Adult,Present
+1,Died,Sobey,Samuel James Hayden,Mr,2nd,male,Southampton,10 - 20,1,25,25,Adult,Present
+1,Died,Bryhl,Kurt Arnold Gottfrid,Mr,2nd,male,Southampton,20 - 30,2,25,25,Adult,Present
+1,Survived,Shelley,William (Imanita Parrish Hall),Mrs,2nd,female,Southampton,20 - 30,2,25,25,Adult,Present
+1,Survived,Christy,Julie Rachel,Miss,2nd,female,Southampton,20 - 30,3,25,25,Adult,Present
+1,Died,Laroche,Joseph Philippe Lemercier,Mr,2nd,male,Cherbourg,30 - above,4,25,25,Adult,Present
+1,Died,Saad,Khalil,Mr,3rd,male,Cherbourg,0 - 10,1,25,25,Adult,Present
+1,Died,Gallagher,Martin,Mr,3rd,male,Queenstown,0 - 10,1,25,25,Adult,Present
+1,Died,Ali,William,Mr,3rd,male,Southampton,0 - 10,1,25,25,Adult,Present
+1,Died,Dantcheff,Ristiu,Mr,3rd,male,Southampton,0 - 10,1,25,25,Adult,Present
+1,Died,Harmer,Abraham (David Lishin),Mr,3rd,male,Southampton,0 - 10,1,25,25,Adult,Present
+1,Died,Lindahl,Agda Thorilda Viktoria,Miss,3rd,female,Southampton,0 - 10,1,25,25,Adult,Present
+1,Died,Moen,Sigurd Hansen,Mr,3rd,male,Southampton,0 - 10,1,25,25,Adult,Present
+1,Died,Sutehall,Henry Jr,Mr,3rd,male,Southampton,0 - 10,1,25,25,Adult,Present
+1,Survived,Tornquist,William Henry,Mr,3rd,male,Southampton,0 - 10,1,25,25,Adult,Present
+1,Died,Arnold-Franchi,Josef,Mr,3rd,male,Southampton,10 - 20,2,25,25,Adult,Present
+1,Died,Ilmakangas,Pieta Sofia,Miss,3rd,female,Southampton,0 - 10,2,25,25,Adult,Present
+1,Survived,Persson,Ernst Ulrik,Mr,3rd,male,Southampton,0 - 10,2,25,25,Adult,Present
+1,Died,Petterson,Johan Emil,Mr,3rd,male,Southampton,0 - 10,2,25,25,Adult,Present
+1,Survived,Behr,Karl Howell,Mr,1st,male,Cherbourg,20 - 30,1,25,26,Adult,Present
+1,Survived,Barber,Ellen Nellie,Miss,1st,female,Southampton,30 - above,1,25,26,Adult,Present
+1,Died,Gavey,Lawrence,Mr,2nd,male,Southampton,10 - 20,1,25,26,Adult,Present
+1,Died,Lahtinen,William (Anna Sylfven),Mrs,2nd,female,Southampton,20 - 30,3,25,26,Adult,Present
+1,Survived,Albimona,Nassef Cassem,Mr,3rd,male,Cherbourg,10 - 20,1,25,26,Adult,Present
+1,Died,Adams,John,Mr,3rd,male,Southampton,0 - 10,1,25,26,Adult,Present
+1,Died,Alexander,William,Mr,3rd,male,Southampton,0 - 10,1,25,26,Adult,Present
+1,Died,Balkic,Cerin,Mr,3rd,male,Southampton,0 - 10,1,25,26,Adult,Present
+1,Died,Bengtsson,John Viktor,Mr,3rd,male,Southampton,0 - 10,1,25,26,Adult,Present
+1,Died,Bostandyeff,Guentcho,Mr,3rd,male,Southampton,0 - 10,1,25,26,Adult,Present
+1,Survived,Heikkinen,Laina,Miss,3rd,female,Southampton,0 - 10,1,25,26,Adult,Present
+1,Survived,Lang,Fang,Mr,3rd,male,Southampton,30 - above,1,25,26,Adult,Present
+1,Survived,Nilsson,Helmina Josefina,Miss,3rd,female,Southampton,0 - 10,1,25,26,Adult,Present
+1,Died,Chronopoulos,Apostolos,Mr,3rd,male,Cherbourg,10 - 20,2,25,26,Adult,Present
+1,Died,Hansen,Henrik Juul,Mr,3rd,male,Southampton,0 - 10,2,25,26,Adult,Present
+1,Died,Lobb,William Arthur (Cordelia K Stanlick),Mrs,3rd,female,Southampton,10 - 20,2,25,26,Adult,Present
+1,Died,Kink,Vincenz,Mr,3rd,male,Southampton,0 - 10,3,25,26,Adult,Present
+1,Died,Dean,Bertram Frank,Mr,3rd,male,Southampton,20 - 30,4,25,26,Adult,Present
+1,Survived,Hassab,Hammad,Mr,1st,male,Cherbourg,30 - above,1,25,27,Adult,Present
+1,Survived,Daniel,Robert Williams,Mr,1st,male,Southampton,30 - above,1,25,27,Adult,Present
+1,Survived,Chambers,Norman Campbell,Mr,1st,male,Southampton,30 - above,2,25,27,Adult,Present
+1,Died,Widener,Harry Elkins,Mr,1st,male,Cherbourg,30 - above,3,25,27,Adult,Present
+1,Died,Bracken,James H,Mr,2nd,male,Southampton,10 - 20,1,25,27,Adult,Present
+1,Died,Montvila,Juozas,Rev,2nd,male,Southampton,10 - 20,1,25,27,Adult,Present
+1,Died,Sharp,Percival James R,Mr,2nd,male,Southampton,20 - 30,1,25,27,Adult,Present
+1,Survived,Troutt,Edwina Celia Winnie,Miss,2nd,female,Southampton,10 - 20,1,25,27,Adult,Present
+1,Survived,Duran y More,Asuncion,Miss,2nd,female,Cherbourg,10 - 20,2,25,27,Adult,Present
+1,Died,Turpin,William John Robert (Dorothy Ann Wonnacott),Mrs,2nd,female,Southampton,20 - 30,2,25,27,Adult,Present
+1,Survived,Andersson,August Edvard (Wennerstrom),Mr,3rd,male,Southampton,0 - 10,1,25,27,Adult,Present
+1,Died,Danoff,Yoto,Mr,3rd,male,Southampton,0 - 10,1,25,27,Adult,Present
+1,Survived,Hedman,Oskar Arvid,Mr,3rd,male,Southampton,0 - 10,1,25,27,Adult,Present
+1,Survived,Honkanen,Eliina,Miss,3rd,female,Southampton,0 - 10,1,25,27,Adult,Present
+1,Survived,Lulic,Nikola,Mr,3rd,male,Southampton,0 - 10,1,25,27,Adult,Present
+1,Died,Yasbeck,Antoni,Mr,3rd,male,Cherbourg,10 - 20,2,25,27,Adult,Present
+1,Survived,Moor,(Beila),Mrs,3rd,female,Southampton,10 - 20,2,25,27,Adult,Present
+1,Survived,Johnson,Oscar W (Elisabeth Vilhelmina Berg),Mrs,3rd,female,Southampton,10 - 20,3,25,27,Adult,Present
+1,Survived,Bjornstrom-Steffansson,Mauritz Hakan,Mr,1st,male,Southampton,20 - 30,1,25,28,Adult,Present
+1,Died,Carrau,Francisco M,Mr,1st,male,Southampton,30 - above,1,25,28,Adult,Present
+1,Survived,Sloper,William Thompson,Mr,1st,male,Southampton,30 - above,1,25,28,Adult,Present
+1,Died,Meyer,Edgar Joseph,Mr,1st,male,Cherbourg,30 - above,2,25,28,Adult,Present
+1,Died,Banfield,Frederick James,Mr,2nd,male,Southampton,10 - 20,1,25,28,Adult,Present
+1,Died,Collander,Erik Gustaf,Mr,2nd,male,Southampton,10 - 20,1,25,28,Adult,Present
+1,Survived,Davis,Mary,Miss,2nd,female,Southampton,10 - 20,1,25,28,Adult,Present
+1,Died,Norman,Robert Douglas,Mr,2nd,male,Southampton,10 - 20,1,25,28,Adult,Present
+1,Survived,Reynaldo,Encarnacion,Ms,2nd,female,Southampton,10 - 20,1,25,28,Adult,Present
+1,Survived,Trout,William H (Jessie L),Mrs,2nd,female,Southampton,10 - 20,1,25,28,Adult,Present
+1,Survived,Abelson,Samuel (Hannah Wizosky),Mrs,2nd,female,Cherbourg,20 - 30,2,25,28,Adult,Present
+1,Survived,Clarke,Charles V (Ada Maria Winfield),Mrs,2nd,female,Southampton,20 - 30,2,25,28,Adult,Present
+1,Died,Harper,John,Rev,2nd,male,Southampton,30 - above,2,25,28,Adult,Present
+1,Died,Carlsson,August Sigfrid,Mr,3rd,male,Southampton,0 - 10,1,25,28,Adult,Present
+1,Died,Hendekovic,Ignjac,Mr,3rd,male,Southampton,0 - 10,1,25,28,Adult,Present
+1,Died,Ling,Lee,Mr,3rd,male,Southampton,30 - above,1,25,28,Adult,Present
+1,Died,Mionoff,Stoytcho,Mr,3rd,male,Southampton,0 - 10,1,25,28,Adult,Present
+1,Died,Olsen,Henry Margido,Mr,3rd,male,Southampton,20 - 30,1,25,28,Adult,Present
+1,Died,Olsson,Nils Johan Goransson,Mr,3rd,male,Southampton,0 - 10,1,25,28,Adult,Present
+1,Died,Petranec,Matilda,Miss,3rd,female,Southampton,0 - 10,1,25,28,Adult,Present
+1,Died,Vande Walle,Nestor Cyriel,Mr,3rd,male,Southampton,0 - 10,1,25,28,Adult,Present
+1,Died,Vanden Steen,Leo Peter,Mr,3rd,male,Southampton,0 - 10,1,25,28,Adult,Present
+1,Died,Hakkarainen,Pekka Pietari,Mr,3rd,male,Southampton,10 - 20,2,25,28,Adult,Present
+1,Died,Danbom,Ernst Gilbert (Anna Sigrid Maria Brogren),Mrs,3rd,female,Southampton,10 - 20,3,25,28,Adult,Present
+1,Died,Gustafsson,Johan Birger,Mr,3rd,male,Southampton,0 - 10,3,25,28,Adult,Present
+1,Died,Novel,Mansouer,Mr,3rd,male,Cherbourg,0 - 10,1,25,28.5,Adult,Present
+1,Died,Williams,Leslie,Mr,3rd,male,Southampton,10 - 20,1,25,28.5,Adult,Present
+1,Survived,Allen,Elisabeth Walton,Miss,1st,female,Southampton,30 - above,1,25,29,Adult,Present
+1,Died,Long,Milton Clyde,Mr,1st,male,Southampton,20 - 30,1,25,29,Adult,Present
+1,Died,Pears,Thomas Clinton,Mr,1st,male,Southampton,30 - above,2,25,29,Adult,Present
+1,Died,Coleridge,Reginald Charles,Mr,2nd,male,Southampton,10 - 20,1,25,29,Adult,Present
+1,Survived,Nye,(Elizabeth Ramell),Mrs,2nd,female,Southampton,10 - 20,1,25,29,Adult,Present
+1,Died,del Carlo,Sebastiano,Mr,2nd,male,Cherbourg,20 - 30,2,25,29,Adult,Present
+1,Survived,Faunthorpe,Lizzie (Elizabeth Anne Wilkinson),Mrs,2nd,female,Southampton,20 - 30,2,25,29,Adult,Present
+1,Died,Turpin,William John Robert,Mr,2nd,male,Southampton,20 - 30,2,25,29,Adult,Present
+1,Survived,Weisz,Leopold (Mathilde Francoise Pede),Mrs,2nd,female,Southampton,20 - 30,2,25,29,Adult,Present
+1,Survived,Jalsevac,Ivan,Mr,3rd,male,Cherbourg,0 - 10,1,25,29,Adult,Present
+1,Survived,Daly,Eugene Patrick,Mr,3rd,male,Queenstown,0 - 10,1,25,29,Adult,Present
+1,Died,Christmann,Emil,Mr,3rd,male,Southampton,0 - 10,1,25,29,Adult,Present
+1,Died,Larsson,August Viktor,Mr,3rd,male,Southampton,0 - 10,1,25,29,Adult,Present
+1,Died,Larsson,Bengt Edvin,Mr,3rd,male,Southampton,0 - 10,1,25,29,Adult,Present
+1,Survived,Sheerlinck,Jan Baptist,Mr,3rd,male,Southampton,0 - 10,1,25,29,Adult,Present
+1,Died,Zimmerman,Leo,Mr,3rd,male,Southampton,0 - 10,1,25,29,Adult,Present
+1,Died,Braund,Lewis Richard,Mr,3rd,male,Southampton,0 - 10,2,25,29,Adult,Present
+1,Survived,Touma,Darwis (Hanne Youssef Razi),Mrs,3rd,female,Cherbourg,10 - 20,3,25,29,Adult,Present
+1,Died,Strom,Wilhelm (Elna Matilda Persson),Mrs,3rd,female,Southampton,10 - 20,3,25,29,Adult,Present
+1,Died,Palsson,Nils (Alma Cornelia Berglund),Mrs,3rd,female,Southampton,20 - 30,5,25,29,Adult,Present
+1,Died,Foreman,Benjamin Laventall,Mr,1st,male,Cherbourg,20 - 30,1,30,30,Adult,Present
+1,Survived,Francatelli,Laura Mabel,Miss,1st,female,Cherbourg,30 - above,1,30,30,Adult,Present
+1,Survived,LeRoy,Bertha,Miss,1st,female,Cherbourg,30 - above,1,30,30,Adult,Present
+1,Survived,Serepeca,Augusta,Miss,1st,female,Cherbourg,30 - above,1,30,30,Adult,Present
+1,Survived,Cherry,Gladys,Miss,1st,female,Southampton,30 - above,1,30,30,Adult,Present
+1,Survived,Perreault,Anne,Miss,1st,female,Southampton,30 - above,1,30,30,Adult,Present
+1,Survived,Slayter,Hilda Mary,Miss,2nd,female,Queenstown,10 - 20,1,30,30,Adult,Present
+1,Died,Givard,Hans Kristensen,Mr,2nd,male,Southampton,10 - 20,1,30,30,Adult,Present
+1,Died,Hale,Reginald,Mr,2nd,male,Southampton,10 - 20,1,30,30,Adult,Present
+1,Died,Harris,Walter,Mr,2nd,male,Southampton,10 - 20,1,30,30,Adult,Present
+1,Died,Matthews,William John,Mr,2nd,male,Southampton,10 - 20,1,30,30,Adult,Present
+1,Survived,Sinkkonen,Anna,Miss,2nd,female,Southampton,10 - 20,1,30,30,Adult,Present
+1,Died,Abelson,Samuel,Mr,2nd,male,Cherbourg,20 - 30,2,30,30,Adult,Present
+1,Survived,Renouf,Peter Henry (Lillian Jefferys),Mrs,2nd,female,Southampton,20 - 30,4,30,30,Adult,Present
+1,Died,Attalah,Sleiman,Mr,3rd,male,Cherbourg,0 - 10,1,30,30,Adult,Present
+1,Died,Ibrahim Shawah,Yousseff,Mr,3rd,male,Cherbourg,0 - 10,1,30,30,Adult,Present
+1,Died,Adahl,Mauritz Nils Martin,Mr,3rd,male,Southampton,0 - 10,1,30,30,Adult,Present
+1,Died,Cacic,Marija,Miss,3rd,female,Southampton,0 - 10,1,30,30,Adult,Present
+1,Died,Corn,Harry,Mr,3rd,male,Southampton,0 - 10,1,30,30,Adult,Present
+1,Survived,de Mulder,Theodore,Mr,3rd,male,Southampton,0 - 10,1,30,30,Adult,Present
+1,Survived,Dowdell,Elizabeth,Miss,3rd,female,Southampton,10 - 20,1,30,30,Adult,Present
+1,Died,Karaic,Milan,Mr,3rd,male,Southampton,0 - 10,1,30,30,Adult,Present
+1,Died,Somerton,Francis William,Mr,3rd,male,Southampton,0 - 10,1,30,30,Adult,Present
+1,Died,Lobb,William Arthur,Mr,3rd,male,Southampton,10 - 20,2,30,30,Adult,Present
+1,Died,Van Impe,Jean Baptiste (Rosalie Paula Govaert),Mrs,3rd,female,Southampton,20 - 30,3,30,30,Adult,Present
+1,Died,Mangan,Mary,Miss,3rd,female,Queenstown,0 - 10,1,30,30.5,Adult,Present
+1,Died,Tomlin,Ernest Portage,Mr,3rd,male,Southampton,0 - 10,1,30,30.5,Adult,Present
+1,Died,Roebling,Washington Augustus II,Mr,1st,male,Southampton,30 - above,1,30,31,Adult,Present
+1,Survived,Newell,Madeleine,Miss,1st,female,Cherbourg,30 - above,2,30,31,Adult,Present
+1,Died,Davidson,Thornton,Mr,1st,male,Southampton,30 - above,2,30,31,Adult,Present
+1,Survived,Dick,Albert Adrian,Mr,1st,male,Southampton,30 - above,2,30,31,Adult,Present
+1,Survived,Wick,Mary Natalie,Miss,1st,female,Southampton,30 - above,3,30,31,Adult,Present
+1,Died,Kvillner,Johan Henrik Johannesson,Mr,2nd,male,Southampton,10 - 20,1,30,31,Adult,Present
+1,Survived,Wilhelms,Charles,Mr,2nd,male,Southampton,10 - 20,1,30,31,Adult,Present
+1,Died,Mallet,Albert,Mr,2nd,male,Cherbourg,30 - above,3,30,31,Adult,Present
+1,Died,Collyer,Harvey,Mr,2nd,male,Southampton,20 - 30,3,30,31,Adult,Present
+1,Survived,Collyer,Harvey (Charlotte Annie Tate),Mrs,2nd,female,Southampton,20 - 30,3,30,31,Adult,Present
+1,Died,Connaghton,Michael,Mr,3rd,male,Queenstown,0 - 10,1,30,31,Adult,Present
+1,Died,Johansson,Karl Johan,Mr,3rd,male,Southampton,0 - 10,1,30,31,Adult,Present
+1,Died,Olsson,Elina,Miss,3rd,female,Southampton,0 - 10,1,30,31,Adult,Present
+1,Survived,Osman,Mara,Mrs,3rd,female,Southampton,0 - 10,1,30,31,Adult,Present
+1,Survived,Stranden,Juho,Mr,3rd,male,Southampton,0 - 10,1,30,31,Adult,Present
+1,Died,Vander Planke,Julius (Emelia Maria Vandemoortele),Mrs,3rd,female,Southampton,10 - 20,2,30,31,Adult,Present
+1,Survived,Goldsmith,Frank John (Emily Alice Brown),Mrs,3rd,female,Southampton,20 - 30,3,30,31,Adult,Present
+1,Survived,Bazzani,Albina,Miss,1st,female,Cherbourg,30 - above,1,30,32,Adult,Present
+1,Survived,Stahelin-Maeglin,Max,Dr,1st,male,Cherbourg,30 - above,1,30,32,Adult,Present
+1,Died,Jenkin,Stephen Curnow,Mr,2nd,male,Southampton,10 - 20,1,30,32,Adult,Present
+1,Survived,Pinsky,(Rosa),Mrs,2nd,female,Southampton,10 - 20,1,30,32,Adult,Present
+1,Survived,Beane,Edward,Mr,2nd,male,Southampton,20 - 30,2,30,32,Adult,Present
+1,Died,Hickman,Lewis,Mr,2nd,male,Southampton,30 - above,3,30,32,Adult,Present
+1,Died,Dooley,Patrick,Mr,3rd,male,Queenstown,0 - 10,1,30,32,Adult,Present
+1,Survived,Bing,Lee,Mr,3rd,male,Southampton,30 - above,1,30,32,Adult,Present
+1,Survived,Chip,Chang,Mr,3rd,male,Southampton,30 - above,1,30,32,Adult,Present
+1,Died,Gronnestad,Daniel Danielsen,Mr,3rd,male,Southampton,0 - 10,1,30,32,Adult,Present
+1,Survived,Jonsson,Carl,Mr,3rd,male,Southampton,0 - 10,1,30,32,Adult,Present
+1,Survived,Jussila,Eiriik,Mr,3rd,male,Southampton,0 - 10,1,30,32,Adult,Present
+1,Died,Leinonen,Antti Gustaf,Mr,3rd,male,Southampton,0 - 10,1,30,32,Adult,Present
+1,Died,Pavlovic,Stefo,Mr,3rd,male,Southampton,0 - 10,1,30,32,Adult,Present
+1,Survived,Pickard,Berk (Berk Trembisky),Mr,3rd,male,Southampton,0 - 10,1,30,32,Adult,Present
+1,Died,Tikkanen,Juho,Mr,3rd,male,Southampton,0 - 10,1,30,32,Adult,Present
+1,Died,Backstrom,Karl Alfred,Mr,3rd,male,Southampton,10 - 20,2,30,32,Adult,Present
+1,Died,Bourke,John (Catherine),Mrs,3rd,female,Queenstown,10 - 20,3,30,32,Adult,Present
+1,Survived,Webber,Susan,Miss,2nd,female,Southampton,10 - 20,1,30,32.5,Adult,Present
+1,Died,Nasser,Nicholas,Mr,2nd,male,Cherbourg,30 - above,2,30,32.5,Adult,Present
+1,Died,Carlsson,Frans Olof,Mr,1st,male,Southampton,0 - 10,1,30,33,Adult,Present
+1,Survived,Rothes,of (Lucy Noel Martha Dyer-Edwards),the Countess,1st,female,Southampton,30 - above,1,30,33,Adult,Present
+1,Survived,Minahan,Daisy E,Miss,1st,female,Queenstown,30 - above,2,30,33,Adult,Present
+1,Survived,Chambers,Norman Campbell (Bertha Griggs),Mrs,1st,female,Southampton,30 - above,2,30,33,Adult,Present
+1,Died,Hunt,George Henry,Mr,2nd,male,Southampton,10 - 20,1,30,33,Adult,Present
+1,Survived,Quick,Frederick Charles (Jane Richards),Mrs,2nd,female,Southampton,20 - 30,3,30,33,Adult,Present
+1,Survived,West,Edwy Arthur (Ada Mary Worth),Mrs,2nd,female,Southampton,20 - 30,4,30,33,Adult,Present
+1,Died,Drazenoic,Jozef,Mr,3rd,male,Cherbourg,0 - 10,1,30,33,Adult,Present
+1,Died,Stankovic,Ivan,Mr,3rd,male,Cherbourg,0 - 10,1,30,33,Adult,Present
+1,Died,Johansson,Gustaf Joel,Mr,3rd,male,Southampton,0 - 10,1,30,33,Adult,Present
+1,Died,Johnson,Malkolm Joackim,Mr,3rd,male,Southampton,0 - 10,1,30,33,Adult,Present
+1,Died,Markun,Johann,Mr,3rd,male,Southampton,0 - 10,1,30,33,Adult,Present
+1,Died,Vande Velde,Johannes Joseph,Mr,3rd,male,Southampton,0 - 10,1,30,33,Adult,Present
+1,Died,Goldsmith,Frank John,Mr,3rd,male,Southampton,20 - 30,3,30,33,Adult,Present
+1,Survived,Backstrom,Karl Alfred (Maria Mathilda Gustafsson),Mrs,3rd,female,Southampton,10 - 20,4,30,33,Adult,Present
+1,Survived,Seward,Frederic Kimber,Mr,1st,male,Southampton,20 - 30,1,30,34,Adult,Present
+1,Survived,Beesley,Lawrence,Mr,2nd,male,Southampton,10 - 20,1,30,34,Adult,Present
+1,Survived,Garside,Ethel,Miss,2nd,female,Southampton,10 - 20,1,30,34,Adult,Present
+1,Died,Gillespie,William Henry,Mr,2nd,male,Southampton,10 - 20,1,30,34,Adult,Present
+1,Survived,Lemore,(Amelia Milley),Mrs,2nd,female,Southampton,10 - 20,1,30,34,Adult,Present
+1,Died,Ponesell,Martin,Mr,2nd,male,Southampton,10 - 20,1,30,34,Adult,Present
+1,Survived,Doling,John T (Ada Julia Bone),Mrs,2nd,female,Southampton,20 - 30,2,30,34,Adult,Present
+1,Died,Gale,Shadrach,Mr,2nd,male,Southampton,20 - 30,2,30,34,Adult,Present
+1,Died,Kantor,Sinai,Mr,2nd,male,Southampton,20 - 30,2,30,34,Adult,Present
+1,Died,Renouf,Peter Henry,Mr,2nd,male,Southampton,20 - 30,2,30,34,Adult,Present
+1,Survived,Drew,James Vivian (Lulu Thorne Christian),Mrs,2nd,female,Southampton,30 - above,3,30,34,Adult,Present
+1,Died,Johanson,Jakob Alfred,Mr,3rd,male,Southampton,0 - 10,1,30,34,Adult,Present
+1,Died,Morley,William,Mr,3rd,male,Southampton,0 - 10,1,30,34,Adult,Present
+1,Died,Theobald,Thomas Leonard,Mr,3rd,male,Southampton,0 - 10,1,30,34,Adult,Present
+1,Died,Danbom,Ernst Gilbert,Mr,3rd,male,Southampton,10 - 20,3,30,34,Adult,Present
+1,Died,Lemberopolous,Peter L,Mr,3rd,male,Cherbourg,0 - 10,1,30,34.5,Adult,Present
+1,Survived,Homer,Harry (Mr E Haven),Mr,1st,male,Cherbourg,20 - 30,1,35,35,Adult,Present
+1,Survived,Lesurer,Gustave J,Mr,1st,male,Cherbourg,30 - above,1,35,35,Adult,Present
+1,Survived,Ward,Anna,Miss,1st,female,Cherbourg,30 - above,1,35,35,Adult,Present
+1,Survived,Bissette,Amelia,Miss,1st,female,Southampton,30 - above,1,35,35,Adult,Present
+1,Survived,Silverthorne,Spencer Victor,Mr,1st,male,Southampton,20 - 30,1,35,35,Adult,Present
+1,Survived,Futrelle,Jacques Heath (Lily May Peel),Mrs,1st,female,Southampton,30 - above,2,35,35,Adult,Present
+1,Survived,Harris,Henry Birkhardt (Irene Wallach),Mrs,1st,female,Southampton,30 - above,2,35,35,Adult,Present
+1,Survived,Holverson,Alexander Oskar (Mary Aline Towner),Mrs,1st,female,Southampton,30 - above,2,35,35,Adult,Present
+1,Survived,Hoyt,Frederick Maxfield (Jane Anne Forby),Mrs,1st,female,Southampton,30 - above,2,35,35,Adult,Present
+1,Survived,Cameron,Clear Annie,Miss,2nd,female,Southampton,20 - 30,1,35,35,Adult,Present
+1,Died,Fynney,Joseph J,Mr,2nd,male,Southampton,20 - 30,1,35,35,Adult,Present
+1,Died,Slemen,Richard James,Mr,2nd,male,Southampton,10 - 20,1,35,35,Adult,Present
+1,Died,Markoff,Marin,Mr,3rd,male,Cherbourg,0 - 10,1,35,35,Adult,Present
+1,Died,Allen,William Henry,Mr,3rd,male,Southampton,0 - 10,1,35,35,Adult,Present
+1,Died,Asim,Adola,Mr,3rd,male,Southampton,0 - 10,1,35,35,Adult,Present
+1,Died,Brocklebank,William Alfred,Mr,3rd,male,Southampton,0 - 10,1,35,35,Adult,Present
+1,Died,Rintamaki,Matti,Mr,3rd,male,Southampton,0 - 10,1,35,35,Adult,Present
+1,Survived,Abbott,Stanton (Rosa Hunt),Mrs,3rd,female,Southampton,20 - 30,3,35,35,Adult,Present
+1,Died,Ross,John Hugo,Mr,1st,male,Cherbourg,30 - above,1,35,36,Adult,Present
+1,Survived,Young,Marie Grice,Miss,1st,female,Cherbourg,30 - above,1,35,36,Adult,Present
+1,Survived,Flynn,John Irwin (Irving),Mr,1st,male,Southampton,20 - 30,1,35,36,Adult,Present
+1,Survived,McGough,James Robert,Mr,1st,male,Southampton,20 - 30,1,35,36,Adult,Present
+1,Survived,Cardeza,Thomas Drake Martinez,Mr,1st,male,Cherbourg,30 - above,2,35,36,Adult,Present
+1,Died,Cavendish,Tyrell William,Mr,1st,male,Southampton,30 - above,2,35,36,Adult,Present
+1,Survived,Crosby,Harriet R,Miss,1st,female,Southampton,30 - above,3,35,36,Adult,Present
+1,Survived,Carter,William Ernest,Mr,1st,male,Southampton,30 - above,4,35,36,Adult,Present
+1,Survived,Carter,William Ernest (Lucile Polk),Mrs,1st,female,Southampton,30 - above,4,35,36,Adult,Present
+1,Died,Levy,Rene Jacques,Mr,2nd,male,Cherbourg,10 - 20,1,35,36,Adult,Present
+1,Survived,Ball,(Ada E Hall),Mrs,2nd,female,Southampton,10 - 20,1,35,36,Adult,Present
+1,Survived,Buss,Kate,Miss,2nd,female,Southampton,10 - 20,1,35,36,Adult,Present
+1,Died,Fox,Stanley Hubert,Mr,2nd,male,Southampton,10 - 20,1,35,36,Adult,Present
+1,Died,Reeves,David,Mr,2nd,male,Southampton,10 - 20,1,35,36,Adult,Present
+1,Survived,Angle,William A (Florence Mary Agnes Hughes),Mrs,2nd,female,Southampton,20 - 30,2,35,36,Adult,Present
+1,Died,West,Edwy Arthur,Mr,2nd,male,Southampton,20 - 30,4,35,36,Adult,Present
+1,Died,Coleff,Peju,Mr,3rd,male,Southampton,0 - 10,1,35,36,Adult,Present
+1,Died,Leonard,Lionel,Mr,3rd,male,Southampton,0 - 10,1,35,36,Adult,Present
+1,Died,Turcin,Stjepan,Mr,3rd,male,Southampton,0 - 10,1,35,36,Adult,Present
+1,Survived,de Messemaeker,Guillaume Joseph (Emma),Mrs,3rd,female,Southampton,10 - 20,2,35,36,Adult,Present
+1,Died,Lindell,Edvard Bengtsson,Mr,3rd,male,Southampton,10 - 20,2,35,36,Adult,Present
+1,Died,Van Impe,Jean Baptiste,Mr,3rd,male,Southampton,20 - 30,3,35,36,Adult,Present
+1,Died,Navratil,Michel (Louis M Hoffman),Mr,2nd,male,Southampton,20 - 30,3,35,36.5,Adult,Present
+1,Died,Natsch,Charles H,Mr,1st,male,Cherbourg,20 - 30,2,35,37,Adult,Present
+1,Died,Futrelle,Jacques Heath,Mr,1st,male,Southampton,30 - above,2,35,37,Adult,Present
+1,Survived,Beckwith,Richard Leonard,Mr,1st,male,Southampton,30 - above,3,35,37,Adult,Present
+1,Died,Chapman,John Henry,Mr,2nd,male,Southampton,20 - 30,2,35,37,Adult,Present
+1,Died,Laitinen,Kristina Sofia,Miss,3rd,female,Southampton,0 - 10,1,35,37,Adult,Present
+1,Died,Gustafsson,Anders Vilhelm,Mr,3rd,male,Southampton,0 - 10,3,35,37,Adult,Present
+1,Survived,Endres,Caroline Louise,Miss,1st,female,Cherbourg,30 - above,1,35,38,Adult,Present
+1,Survived,Icard,Amelie,Miss,1st,female,Southampton,30 - above,1,35,38,Adult,Present
+1,Died,Reuchlin,John George,Jonkheer,1st,male,Southampton,0 - 10,1,35,38,Adult,Present
+1,Survived,Cumings,John Bradley (Florence Briggs Thayer),Mrs,1st,female,Cherbourg,30 - above,2,35,38,Adult,Present
+1,Died,Graham,George Edward,Mr,1st,male,Southampton,30 - above,2,35,38,Adult,Present
+1,Survived,Hoyt,Frederick Maxfield,Mr,1st,male,Southampton,30 - above,2,35,38,Adult,Present
+1,Died,Funk,Annie Clemmer,Miss,2nd,female,Southampton,10 - 20,1,35,38,Adult,Present
+1,Died,Cacic,Luka,Mr,3rd,male,Southampton,0 - 10,1,35,38,Adult,Present
+1,Died,Goncalves,Manuel Estanslas,Mr,3rd,male,Southampton,0 - 10,1,35,38,Adult,Present
+1,Died,Rekic,Tido,Mr,3rd,male,Southampton,0 - 10,1,35,38,Adult,Present
+1,Survived,Asplund,Carl Oscar (Selma Augusta Emilia Johansson),Mrs,3rd,female,Southampton,30 - above,7,35,38,Adult,Present
+1,Died,Andrews,Thomas Jr,Mr,1st,male,Southampton,0 - 10,1,35,39,Adult,Present
+1,Survived,Silvey,William Baird (Alice Munger),Mrs,1st,female,Southampton,30 - above,2,35,39,Adult,Present
+1,Survived,Compton,Sara Rebecca,Miss,1st,female,Cherbourg,30 - above,3,35,39,Adult,Present
+1,Survived,Thayer,John Borland (Marian Longstreth Morris),Mrs,1st,female,Cherbourg,30 - above,3,35,39,Adult,Present
+1,Survived,Taussig,Emil (Tillie Mandelbaum),Mrs,1st,female,Southampton,30 - above,3,35,39,Adult,Present
+1,Died,Meyer,August,Mr,2nd,male,Southampton,10 - 20,1,35,39,Adult,Present
+1,Died,Morley,Henry Samuel (Mr Henry Marshall),Mr,2nd,male,Southampton,20 - 30,1,35,39,Adult,Present
+1,Died,Otter,Richard,Mr,2nd,male,Southampton,10 - 20,1,35,39,Adult,Present
+1,Died,Lester,James,Mr,3rd,male,Southampton,20 - 30,1,35,39,Adult,Present
+1,Survived,Niskanen,Juha,Mr,3rd,male,Southampton,0 - 10,1,35,39,Adult,Present
+1,Died,Salonen,Johan Werner,Mr,3rd,male,Southampton,0 - 10,1,35,39,Adult,Present
+1,Died,Rice,William (Margaret Norton),Mrs,3rd,female,Queenstown,20 - 30,6,35,39,Adult,Present
+1,Died,Andersson,Anders Johan,Mr,3rd,male,Southampton,30 - above,7,35,39,Adult,Present
+1,Died,Andersson,Anders Johan (Alfrida Konstantia Brogren),Mrs,3rd,female,Southampton,30 - above,7,35,39,Adult,Present
+1,Survived,Blank,Henry,Mr,1st,male,Cherbourg,30 - above,1,40,40,Adult,Present
+1,Died,Uruchurtu,Manuel E,Don,1st,male,Cherbourg,20 - 30,1,40,40,Adult,Present
+1,Died,Harrison,William,Mr,1st,male,Southampton,0 - 10,1,40,40,Adult,Present
+1,Survived,Shutes,Elizabeth W,Miss,1st,female,Southampton,30 - above,1,40,40,Adult,Present
+1,Survived,Spedden,Frederic Oakley (Margaretta Corning Stone),Mrs,1st,female,Cherbourg,30 - above,3,40,40,Adult,Present
+1,Survived,Smith,Marion Elsie,Miss,2nd,female,Southampton,10 - 20,1,40,40,Adult,Present
+1,Survived,Watt,James (Elizabeth Bessie Inglis Milne),Mrs,2nd,female,Southampton,10 - 20,1,40,40,Adult,Present
+1,Survived,Brown,Thomas William Solomon (Elizabeth Catherine Ford),Mrs,2nd,female,Southampton,30 - above,3,40,40,Adult,Present
+1,Died,Badt,Mohamed,Mr,3rd,male,Cherbourg,0 - 10,1,40,40,Adult,Present
+1,Died,Sivic,Husein,Mr,3rd,male,Southampton,0 - 10,1,40,40,Adult,Present
+1,Died,Ahlin,Johan (Johanna Persdotter Larsson),Mrs,3rd,female,Southampton,0 - 10,2,40,40,Adult,Present
+1,Died,Bourke,John,Mr,3rd,male,Queenstown,10 - 20,3,40,40,Adult,Present
+1,Died,Skoog,Wilhelm,Mr,3rd,male,Southampton,20 - 30,6,40,40,Adult,Present
+1,Died,Farrell,James,Mr,3rd,male,Queenstown,0 - 10,1,40,40.5,Adult,Present
+1,Died,van Billiard,Austin Blyler,Mr,3rd,male,Southampton,10 - 20,3,40,40.5,Adult,Present
+1,Survived,Burns,Elizabeth Margaret,Miss,1st,female,Cherbourg,30 - above,1,40,41,Adult,Present
+1,Survived,Mellinger,(Elizabeth Anne Maidment),Mrs,2nd,female,Southampton,10 - 20,2,40,41,Adult,Present
+1,Died,Nirva,Iisakki Antino Aijo,Mr,3rd,male,Southampton,0 - 10,1,40,41,Adult,Present
+1,Died,Hansen,Claus Peter,Mr,3rd,male,Southampton,10 - 20,3,40,41,Adult,Present
+1,Died,Rosblom,Viktor (Helena Wilhelmina),Mrs,3rd,female,Southampton,20 - 30,3,40,41,Adult,Present
+1,Died,Panula,Juha (Maria Emilia Ojala),Mrs,3rd,female,Southampton,30 - above,6,40,41,Adult,Present
+1,Survived,Bidois,Rosalie,Miss,1st,female,Cherbourg,30 - above,1,40,42,Adult,Present
+1,Survived,Calderhead,Edward Pennington,Mr,1st,male,Southampton,20 - 30,1,40,42,Adult,Present
+1,Died,Holverson,Alexander Oskar,Mr,1st,male,Southampton,30 - above,2,40,42,Adult,Present
+1,Survived,Kimball,Edwin Nelson Jr,Mr,1st,male,Southampton,30 - above,2,40,42,Adult,Present
+1,Died,Byles,Thomas Roussel Davids,Rev,2nd,male,Southampton,10 - 20,1,40,42,Adult,Present
+1,Survived,Bystrom,(Karolina),Mrs,2nd,female,Southampton,10 - 20,1,40,42,Adult,Present
+1,Survived,Hosono,Masabumi,Mr,2nd,male,Southampton,10 - 20,1,40,42,Adult,Present
+1,Died,Jacobsohn,Sidney Samuel,Mr,2nd,male,Southampton,20 - 30,2,40,42,Adult,Present
+1,Survived,Louch,Charles Alexander (Alice Adelaide Slow),Mrs,2nd,female,Southampton,20 - 30,2,40,42,Adult,Present
+1,Died,Abbing,Anthony,Mr,3rd,male,Southampton,0 - 10,1,40,42,Adult,Present
+1,Died,Dimic,Jovan,Mr,3rd,male,Southampton,0 - 10,1,40,42,Adult,Present
+1,Died,Humblen,Adolf Mathias Nicolai Olsen,Mr,3rd,male,Southampton,0 - 10,1,40,42,Adult,Present
+1,Died,Olsen,Karl Siegwart Andreas,Mr,3rd,male,Southampton,0 - 10,2,40,42,Adult,Present
+1,Survived,Robert,Edward Scott (Elisabeth Walton McMillan),Mrs,1st,female,Southampton,30 - above,2,40,43,Adult,Present
+1,Died,Hart,Benjamin,Mr,2nd,male,Southampton,20 - 30,3,40,43,Adult,Present
+1,Died,Cook,Jacob,Mr,3rd,male,Southampton,0 - 10,1,40,43,Adult,Present
+1,Died,Holm,John Fredrik Alexander,Mr,3rd,male,Southampton,0 - 10,1,40,43,Adult,Present
+1,Died,Goodwin,Frederick (Augusta Tyler),Mrs,3rd,female,Southampton,30 - above,8,40,43,Adult,Present
+1,Survived,Brown,James Joseph (Margaret Tobin),Mrs,1st,female,Cherbourg,20 - 30,1,40,44,Adult,Present
+1,Survived,Hippach,Louis Albert (Ida Sophia Fischer),Mrs,1st,female,Cherbourg,30 - above,2,40,44,Adult,Present
+1,Died,Minahan,William Edward,Dr,1st,male,Queenstown,30 - above,3,40,44,Adult,Present
+1,Died,Carter,Ernest Courtenay (Lilian Hughes),Mrs,2nd,female,Southampton,20 - 30,2,40,44,Adult,Present
+1,Died,Hold,Stephen,Mr,2nd,male,Southampton,20 - 30,2,40,44,Adult,Present
+1,Died,Kelly,James,Mr,3rd,male,Southampton,0 - 10,1,40,44,Adult,Present
+1,Survived,Sundman,Johan Julian,Mr,3rd,male,Southampton,0 - 10,1,40,44,Adult,Present
+1,Died,Torber,Ernst William,Mr,3rd,male,Southampton,0 - 10,1,40,44,Adult,Present
+1,Died,Cribb,John Hatfield,Mr,3rd,male,Southampton,10 - 20,2,40,44,Adult,Present
+1,Died,Blackwell,Stephen Weart,Mr,1st,male,Southampton,30 - above,1,45,45,Adult,Present
+1,Died,Butt,Archibald Willingham,Major,1st,male,Southampton,20 - 30,1,45,45,Adult,Present
+1,Survived,Romaine,Charles Hallace (Mr C Rolmane),Mr,1st,male,Southampton,20 - 30,1,45,45,Adult,Present
+1,Died,Harris,Henry Birkhardt,Mr,1st,male,Southampton,30 - above,2,45,45,Adult,Present
+1,Survived,Wick,George Dennick (Mary Hitchcock),Mrs,1st,female,Southampton,30 - above,3,45,45,Adult,Present
+1,Survived,Kelly,Florence Fannie,Mrs,2nd,female,Southampton,10 - 20,1,45,45,Adult,Present
+1,Survived,Hart,Benjamin (Esther Ada Bloomfield),Mrs,2nd,female,Southampton,20 - 30,3,45,45,Adult,Present
+1,Survived,Dahl,Karl Edwart,Mr,3rd,male,Southampton,0 - 10,1,45,45,Adult,Present
+1,Died,Ekstrom,Johan,Mr,3rd,male,Southampton,0 - 10,1,45,45,Adult,Present
+1,Died,Lindblom,Augusta Charlotta,Miss,3rd,female,Southampton,0 - 10,1,45,45,Adult,Present
+1,Died,Barbara,(Catherine David),Mrs,3rd,female,Cherbourg,10 - 20,2,45,45,Adult,Present
+1,Died,Skoog,William (Anna Bernhardina Karlsson),Mrs,3rd,female,Southampton,20 - 30,6,45,45,Adult,Present
+1,Died,Partner,Austen,Mr,1st,male,Southampton,20 - 30,1,45,45.5,Adult,Present
+1,Died,Youseff,Gerious,Mr,3rd,male,Cherbourg,0 - 10,1,45,45.5,Adult,Present
+1,Died,Guggenheim,Benjamin,Mr,1st,male,Cherbourg,30 - above,1,45,46,Adult,Present
+1,Died,Chaffee,Herbert Fuller,Mr,1st,male,Southampton,30 - above,2,45,46,Adult,Present
+1,Died,McKane,Peter David,Mr,2nd,male,Southampton,20 - 30,1,45,46,Adult,Present
+1,Died,Colley,Edward Pomeroy,Mr,1st,male,Southampton,20 - 30,1,45,47,Adult,Present
+1,Died,Gee,Arthur H,Mr,1st,male,Southampton,30 - above,1,45,47,Adult,Present
+1,Died,Porter,Walter Chamberlain,Mr,1st,male,Southampton,30 - above,1,45,47,Adult,Present
+1,Died,Walker,William Anderson,Mr,1st,male,Southampton,30 - above,1,45,47,Adult,Present
+1,Survived,Beckwith,Richard Leonard (Sallie Monypeny),Mrs,1st,female,Southampton,30 - above,3,45,47,Adult,Present
+1,Died,Jarvis,John Denzil,Mr,2nd,male,Southampton,10 - 20,1,45,47,Adult,Present
+1,Died,Elsbury,William James,Mr,3rd,male,Southampton,0 - 10,1,45,47,Adult,Present
+1,Died,Vander Cruyssen,Victor,Mr,3rd,male,Southampton,0 - 10,1,45,47,Adult,Present
+1,Died,Robins,Alexander A (Grace Charity Laury),Mrs,3rd,female,Southampton,10 - 20,2,45,47,Adult,Present
+1,Survived,Anderson,Harry,Mr,1st,male,Southampton,20 - 30,1,45,48,Adult,Present
+1,Survived,Swift,Frederick Joel (Margaret Welles Barron),Mrs,1st,female,Southampton,20 - 30,1,45,48,Adult,Present
+1,Survived,Duff Gordon,(Lucille Christiana Sutherland) (Mrs Morgan),Lady,1st,female,Cherbourg,30 - above,2,45,48,Adult,Present
+1,Survived,Harper,Henry Sleeper,Mr,1st,male,Cherbourg,30 - above,2,45,48,Adult,Present
+1,Survived,Taylor,Elmer Zebley,Mr,1st,male,Southampton,30 - above,2,45,48,Adult,Present
+1,Died,Milling,Jacob Christian,Mr,2nd,male,Southampton,10 - 20,1,45,48,Adult,Present
+1,Survived,Herman,Samuel (Jane Laver),Mrs,2nd,female,Southampton,30 - above,4,45,48,Adult,Present
+1,Died,Jensen,Niels Peder,Mr,3rd,male,Southampton,0 - 10,1,45,48,Adult,Present
+1,Died,Ford,Edward (Margaret Ann Watson),Mrs,3rd,female,Southampton,30 - above,5,45,48,Adult,Present
+1,Survived,Leader,Alice (Farnham),Dr,1st,female,Southampton,20 - 30,1,45,49,Adult,Present
+1,Survived,Duff Gordon,Cosmo Edmund (Mr Morgan),Sir,1st,male,Cherbourg,30 - above,2,45,49,Adult,Present
+1,Survived,Goldenberg,Samuel L,Mr,1st,male,Cherbourg,30 - above,2,45,49,Adult,Present
+1,Survived,Harper,Henry Sleeper (Myna Haxtun),Mrs,1st,female,Cherbourg,30 - above,2,45,49,Adult,Present
+1,Died,Thayer,John Borland,Mr,1st,male,Cherbourg,30 - above,3,45,49,Adult,Present
+1,Died,Johnson,Alfred,Mr,3rd,male,Southampton,0 - 10,1,45,49,Adult,Present
+1,Died,Isham,Ann Elizabeth,Miss,1st,female,Cherbourg,20 - 30,1,50,50,Adult,Present
+1,Survived,Baxter,James (Helene DeLaudeniere Chaput),Mrs,1st,female,Cherbourg,30 - above,2,50,50,Adult,Present
+1,Died,Douglas,Walter Donald,Mr,1st,male,Cherbourg,30 - above,2,50,50,Adult,Present
+1,Died,Silvey,William Baird,Mr,1st,male,Southampton,30 - above,2,50,50,Adult,Present
+1,Survived,Frauenthal,Henry William,Dr,1st,male,Southampton,30 - above,3,50,50,Adult,Present
+1,Died,Hodges,Henry Price,Mr,2nd,male,Southampton,10 - 20,1,50,50,Adult,Present
+1,Survived,Ridsdale,Lucy,Miss,2nd,female,Southampton,10 - 20,1,50,50,Adult,Present
+1,Survived,Toomey,Ellen,Miss,2nd,female,Southampton,10 - 20,1,50,50,Adult,Present
+1,Survived,Parrish,(Lutie Davis),Mrs,2nd,female,Southampton,20 - 30,2,50,50,Adult,Present
+1,Died,Rouse,Richard Henry,Mr,3rd,male,Southampton,0 - 10,1,50,50,Adult,Present
+1,Survived,Daly,Peter Denis,Mr,1st,male,Southampton,20 - 30,1,50,51,Adult,Present
+1,Died,Williams,Charles Duane,Mr,1st,male,Cherbourg,30 - above,2,50,51,Adult,Present
+1,Survived,Hogeboom,John C (Anna Andrews),Mrs,1st,female,Southampton,30 - above,2,50,51,Adult,Present
+1,Died,Bateman,Robert James,Rev,2nd,male,Southampton,10 - 20,1,50,51,Adult,Present
+1,Died,Green,George Henry,Mr,3rd,male,Southampton,0 - 10,1,50,51,Adult,Present
+1,Died,Lundahl,Johan Svensson,Mr,3rd,male,Southampton,0 - 10,1,50,51,Adult,Present
+1,Died,Widegren,Carl/Charles Peter,Mr,3rd,male,Southampton,0 - 10,1,50,51,Adult,Present
+1,Survived,Peuchen,Arthur Godfrey,Major,1st,male,Southampton,30 - above,1,50,52,Adult,Present
+1,Survived,Stephenson,Walter Bertram (Martha Eustis),Mrs,1st,female,Cherbourg,30 - above,2,50,52,Adult,Present
+1,Survived,Hays,Charles Melville (Clara Jennings Gregg),Mrs,1st,female,Southampton,30 - above,3,50,52,Adult,Present
+1,Died,Taussig,Emil,Mr,1st,male,Southampton,30 - above,3,50,52,Adult,Present
+1,Died,Chapman,Charles Henry,Mr,2nd,male,Southampton,10 - 20,1,50,52,Adult,Present
+1,Died,Greenberg,Samuel,Mr,2nd,male,Southampton,10 - 20,1,50,52,Adult,Present
+1,Survived,Appleton,Edward Dale (Charlotte Lamson),Mrs,1st,female,Southampton,30 - above,3,50,53,Adult,Present
+1,Died,McCarthy,Timothy J,Mr,1st,male,Southampton,30 - above,1,50,54,Adult,Present
+1,Survived,Eustis,Elizabeth Mussey,Miss,1st,female,Cherbourg,30 - above,2,50,54,Adult,Present
+1,Survived,Rothschild,Martin (Elizabeth L. Barrett),Mrs,1st,female,Cherbourg,30 - above,2,50,54,Adult,Present
+1,Died,White,Percival Wayland,Mr,1st,male,Southampton,30 - above,2,50,54,Adult,Present
+1,Died,Downton,William James,Mr,2nd,male,Southampton,20 - 30,1,50,54,Adult,Present
+1,Died,Moraweck,Ernest,Dr,2nd,male,Southampton,10 - 20,1,50,54,Adult,Present
+1,Died,Carter,Ernest Courtenay,Rev,2nd,male,Southampton,20 - 30,2,50,54,Adult,Present
+1,Survived,Hocking,Elizabeth (Eliza Needs),Mrs,2nd,female,Southampton,20 - 30,5,50,54,Adult,Present
+1,Died,Molson,Harry Markland,Mr,1st,male,Southampton,30 - above,1,55,55,Adult,Present
+1,Survived,Hewlett,(Mary D Kingcome),Mrs,2nd,female,Southampton,10 - 20,1,55,55,Adult,Present
+1,Died,Meo,Alfonzo,Mr,3rd,male,Southampton,0 - 10,1,55,55.5,Adult,Present
+1,Survived,Simonius-Blumer,Oberst Alfons,Col,1st,male,Cherbourg,30 - above,1,55,56,Adult,Present
+1,Died,Smith,James Clinch,Mr,1st,male,Cherbourg,30 - above,1,55,56,Adult,Present
+1,Died,Smart,John Montgomery,Mr,1st,male,Southampton,20 - 30,1,55,56,Adult,Present
+1,Survived,Potter,Thomas Jr (Lily Alexenia Wilson),Mrs,1st,female,Cherbourg,30 - above,2,55,56,Adult,Present
+1,Died,Kirkland,Charles Leonard,Rev,2nd,male,Queenstown,10 - 20,1,55,57,Adult,Present
+1,Died,Mack,(Mary),Mrs,2nd,female,Southampton,10 - 20,1,55,57,Adult,Present
+1,Died,Kent,Edward Austin,Mr,1st,male,Cherbourg,20 - 30,1,55,58,Adult,Present
+1,Survived,Lurette,Elise,Miss,1st,female,Cherbourg,30 - above,1,55,58,Adult,Present
+1,Survived,Bonnell,Elizabeth,Miss,1st,female,Southampton,20 - 30,1,55,58,Adult,Present
+1,Survived,Graham,William Thompson (Edith Junkins),Mrs,1st,female,Southampton,30 - above,2,55,58,Adult,Present
+1,Died,Newell,Arthur Webster,Mr,1st,male,Cherbourg,30 - above,3,55,58,Adult,Present
+1,Died,Sjostedt,Ernst Adolf,Mr,2nd,male,Southampton,10 - 20,1,55,59,Adult,Present
+1,Died,Coxon,Daniel,Mr,3rd,male,Southampton,0 - 10,1,55,59,Adult,Present
+1,Died,Weir,John,Col,1st,male,Southampton,20 - 30,1,60,60,Adult,Present
+1,Survived,Warren,Frank Manley (Anna Sophia Atkinson),Mrs,1st,female,Cherbourg,30 - above,2,60,60,Adult,Present
+1,Survived,Frolicher-Stehli,Maxmillian,Mr,1st,male,Cherbourg,30 - above,3,60,60,Adult,Present
+1,Died,Brown,Thomas William Solomon,Mr,2nd,male,Southampton,30 - above,3,60,60,Adult,Present
+1,Died,Sutton,Frederick,Mr,1st,male,Southampton,30 - above,1,60,61,Adult,Present
+1,Died,Van der hoef,Wyckoff,Mr,1st,male,Southampton,30 - above,1,60,61,Adult,Present
+1,Died,Nysveen,Johan Hansen,Mr,3rd,male,Southampton,0 - 10,1,60,61,Adult,Present
+1,Died,Stead,William Thomas,Mr,1st,male,Southampton,20 - 30,1,60,62,Adult,Present
+1,Survived,Stone,George Nelson (Martha Evelyn),Mrs,1st,female,Southampton,30 - above,1,60,62,Adult,Present
+1,Died,Wright,George,Mr,1st,male,Southampton,20 - 30,1,60,62,Adult,Present
+1,Survived,Harris,George,Mr,2nd,male,Southampton,10 - 20,1,60,62,Adult,Present
+1,Survived,Andrews,Kornelia Theodosia,Miss,1st,female,Southampton,30 - above,2,60,63,Adult,Present
+1,Survived,Turkula,(Hedwig),Mrs,3rd,female,Southampton,0 - 10,1,60,63,Adult,Present
+1,Died,Nicholson,Arthur Ernest,Mr,1st,male,Southampton,20 - 30,1,60,64,Adult,Present
+1,Died,Fortune,Mark,Mr,1st,male,Southampton,30 - above,6,60,64,Adult,Present
+1,Died,Millet,Francis Davis,Mr,1st,male,Southampton,20 - 30,1,65,65,Adult,Present
+1,Died,Ostby,Engelhart Cornelius,Mr,1st,male,Cherbourg,30 - above,2,65,65,Adult,Present
+1,Died,Duane,Frank,Mr,3rd,male,Queenstown,0 - 10,1,65,65,Adult,Present
+1,Died,Wheadon,Edward H,Mr,2nd,male,Southampton,10 - 20,1,65,66,Adult,Present
+1,Died,Crosby,Edward Gifford,Capt,1st,male,Southampton,30 - above,3,70,70,Adult,Present
+1,Died,Mitchell,Henry Michael,Mr,2nd,male,Southampton,10 - 20,1,70,70,Adult,Present
+1,Died,Connors,Patrick,Mr,3rd,male,Queenstown,0 - 10,1,70,70.5,Adult,Present
+1,Died,Artagaveytia,Ramon,Mr,1st,male,Cherbourg,30 - above,1,70,71,Adult,Present
+1,Died,Goldschmidt,George B,Mr,1st,male,Cherbourg,30 - above,1,70,71,Adult,Present
+1,Died,Svensson,Johan,Mr,3rd,male,Southampton,0 - 10,1,70,74,Adult,Present
+1,Survived,Barkworth,Algernon Henry Wilson,Mr,1st,male,Southampton,20 - 30,1,80,80,Adult,Present
